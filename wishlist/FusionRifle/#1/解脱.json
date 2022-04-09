@@ -1,0 +1,22 @@
+{
+  "name": "deliverance",
+  "kind": "Kinetic",
+  "season": 16,
+  "id": "768621510",
+  "perks": [
+    {
+      "perk": "2652708987,689005463,3523296417,2652708987",
+      "season": 16,
+      "pve": true,
+      "pvp": false,
+      "godRoll": true
+    },
+    {
+      "perk": "839105230,689005463,1428297954,2652708987",
+      "season": 16,
+      "pve": false,
+      "pvp": true,
+      "godRoll": true
+    }
+  ]
+}
