@@ -2,7 +2,7 @@ import os
 import logging
 import json as jsonlib
 import urllib.parse
-from requests import sessions
+from requests import Session
 from requests.auth import AuthBase
 from .entity_type import EntityType
 
@@ -21,7 +21,7 @@ class TokenAuth(AuthBase):
         request.headers["X-API-Key"] = self.token
 
 
-class Destiny2Session(sessions):
+class Destiny2Session(Session):
     Baseurl = "https://bungie.net/Platform"
 
     def __init__(self):
