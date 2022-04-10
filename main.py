@@ -9,4 +9,6 @@ if __name__ == '__main__':
     dim_parser = DimParser(dim_wishlist)
     client = Destiny2API()
     result = client.get_entity_definition(EntityType.InventoryItem, dim_parser.fetch_item_id())
+    print(result['Response']['itemCategoryHashes'])
     weapon = Destiny2Weapon(result)
+    print(weapon.category)
