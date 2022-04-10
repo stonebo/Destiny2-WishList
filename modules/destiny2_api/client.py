@@ -2,6 +2,8 @@ import os
 import logging
 import json as jsonlib
 import urllib.parse
+
+import requests.exceptions
 from requests import Session
 from requests.auth import HTTPBasicAuth
 from .entity_type import EntityType
@@ -61,6 +63,10 @@ class Destiny2API:
 
     def get_entity_definition(self, entity_type: EntityType, hash_id: str):
         _url = self.build_destiny2_url("Manifest", entity_type.value, hash_id)
-        return self._get(_url)
+        resp = self._get(_url)
+        if resp.status_code == 200:
+            return resp.json()
+        else:
+            raise requests.exceptions.HTTPError(f"[{resp.status_code}]{resp.content}")
 
 
