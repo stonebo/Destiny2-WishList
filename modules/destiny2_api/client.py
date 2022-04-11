@@ -69,4 +69,6 @@ class Destiny2API:
         else:
             raise requests.exceptions.HTTPError(f"[{resp.status_code}]{resp.content}")
 
+    def get_inventory_item_definition(self, hash_id: str):
+        return self.get_entity_definition(EntityType.InventoryItem, hash_id)
 

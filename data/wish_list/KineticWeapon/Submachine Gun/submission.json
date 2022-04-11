@@ -1,0 +1,38 @@
+{
+    "name": "Submission",
+    "id": 3886416794,
+    "damage_type": "Kinetic",
+    "weapon_type": "Submachine Gun",
+    "category": "KineticWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/13a8ca6a28104aa2881534b2ef315ea6.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/3886416794.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                "839105230",
+                "2420895100",
+                "509074078",
+                "3078487919"
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "91f710f202140e06cc3d74aacb955e450e4341b2"
+        },
+        {
+            "perks": [
+                "839105230",
+                "2420895100",
+                "2209918983",
+                "3078487919"
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "e913a74719b05e6d786489cce930059bad3b0dec"
+        }
+    ]
+}

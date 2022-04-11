@@ -1,7 +1,8 @@
 import re
+from .parser import WishListParser
 
 
-class DimParser:
+class DimParser(WishListParser):
     def __init__(self, wish_item: str):
         """
 
@@ -21,14 +22,15 @@ class DimParser:
             return False
         else:
             return True
-
-    def fetch_item_id(self) -> str:
+    @property
+    def id(self) -> str:
         wish_item_detal = self.wish_item.split(":")[-1]
         item = wish_item_detal.split("&")[0]
         item_id = item.split("=")[-1]
         return item_id
 
-    def fetch_perk_list(self) -> list:
+    @property
+    def perk_list(self) -> list:
         wish_item_detal = self.wish_item.split(":")[-1]
         perk = wish_item_detal.split("&")[-1]
         perk_ids = perk.split("=")[-1]

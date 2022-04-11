@@ -1,39 +1,21 @@
-import json
 import logging
 import os
 import json as jsonlib
-from ..utils import workspace
+from ..utils import workspace, gen_hash
+from .inventory_item import Destiny2Inventory
 
 logger = logging.getLogger()
 
 
-class Destiny2Weapon:
-    Baseurl = "https://bungie.net"
-
-    def __init__(self, reps: dict):
-        self.resp = reps
+class Destiny2Weapon(Destiny2Inventory):
+    def __init__(self, hash_id: str):
+        self.resp = self._get_resp_from_bungie(hash_id)
         self.perks = []
         self._load_exist_perks()
 
     @property
-    def response_data(self):
-        return self.resp['Response']
-
-    @property
-    def name(self) -> str:
-        return self.response_data['displayProperties']['name']
-
-    @property
-    def icon_url(self) -> str:
-        return f"{self.Baseurl}{self.response_data['displayProperties']['icon']}"
-
-    @property
-    def hash_id(self) -> str:
-        return self.response_data['hash']
-
-    @property
     def screenshot_url(self) -> str:
-        return f"{self.Baseurl}{self.response_data['screenshot']}"
+        return self._build_icon_link(self.response_data['screenshot'])
 
     @property
     def damage_type(self) -> str:
@@ -52,7 +34,7 @@ class Destiny2Weapon:
 
     @property
     def water_mark(self) -> str:
-        return f"{self.Baseurl}{self.response_data['iconWatermarkShelved']}"
+        return self._build_icon_link(self.response_data['iconWatermarkShelved'])
 
     @property
     def json_data_path(self):
@@ -77,7 +59,7 @@ class Destiny2Weapon:
         _file = self.json_data_path
         if os.path.isfile(_file):
             with open(_file, "r") as fp:
-                json_data = json.load(fp)
+                json_data = jsonlib.load(fp)
         else:
             json_data = None
         return json_data
@@ -104,25 +86,29 @@ class Destiny2Weapon:
         }
         return _json
 
-    def save(self):
-        _file = self.json_data_path
-        _dir = os.path.dirname(_file)
-        if os.path.isdir(_dir) is False:
-            os.makedirs(_dir, exist_ok=True)
-
-
     def _add_perks(self,
                   perk_list: list,
                   pvp: bool = False,
                   pve: bool = False,
                   god_roll: bool = False):
-        _template = {
-            "perks": perk_list,
-            "pvp": pvp,
-            "pve": pve,
-            "god_roll": god_roll
-        }
-        self.perks.append(_template)
+        hash_id = gen_hash(f"{','.join(perk_list)}{str(pvp)}{str(pve)}{str(god_roll)}")
+        if hash_id not in self._get_perks_hash():
+            _template = {
+                "perks": perk_list,
+                "pvp": pvp,
+                "pve": pve,
+                "god_roll": god_roll,
+                "hash": hash_id
+            }
+            self.perks.append(_template)
+        else:
+            logger.warning(f"{self.name}'s perk {','.join(perk_list)} already exist")
+
+    def _get_perks_hash(self):
+        return [prek['hash'] for prek in self.perks]
+
+    def add_perks(self, perk_list: list, god_roll: bool = False):
+        self._add_perks(perk_list=perk_list, pvp=False, pve=False, god_roll=god_roll)
 
     def add_pvp_perks(self, perk_list: list, god_roll: bool = False):
         self._add_perks(perk_list=perk_list, pvp=True, pve=False, god_roll=god_roll)
