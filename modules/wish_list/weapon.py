@@ -1,6 +1,8 @@
 import logging
 import os
 import json as jsonlib
+from typing import List
+from .perks import Perks
 from ..utils import workspace, gen_hash
 from .inventory_item import Destiny2Inventory
 
@@ -34,7 +36,9 @@ class Destiny2Weapon(Destiny2Inventory):
 
     @property
     def water_mark(self) -> str:
-        return self._build_icon_link(self.response_data['iconWatermarkShelved'])
+        water_mark = self.response_data.get('iconWatermarkShelved',
+                                            self.response_data['iconWatermark'])
+        return self._build_icon_link(water_mark)
 
     @property
     def json_data_path(self):
@@ -54,6 +58,14 @@ class Destiny2Weapon(Destiny2Inventory):
             "4": "PowerWeapon"
         }
         return _weapon_category.get(str(self.response_data['itemCategoryHashes'][0]), "Unknow")
+
+    @property
+    def icon_list(self) -> List[tuple]:
+        return [
+            ("icon", self.icon_url),
+            ("watermark", self.water_mark),
+            ("screenshot", self.screenshot_url),
+        ]
 
     def _load_exist_data(self) -> dict:
         _file = self.json_data_path
@@ -94,7 +106,7 @@ class Destiny2Weapon(Destiny2Inventory):
         hash_id = gen_hash(f"{','.join(perk_list)}{str(pvp)}{str(pve)}{str(god_roll)}")
         if hash_id not in self._get_perks_hash():
             _template = {
-                "perks": perk_list,
+                "perks": self._gen_perk_list(perk_list),
                 "pvp": pvp,
                 "pve": pve,
                 "god_roll": god_roll,
@@ -103,6 +115,14 @@ class Destiny2Weapon(Destiny2Inventory):
             self.perks.append(_template)
         else:
             logger.warning(f"{self.name}'s perk {','.join(perk_list)} already exist")
+
+    def _gen_perk_list(self, perk_id_list: list):
+        perk_list = []
+        for perk_id in perk_id_list:
+            _perk = Perks(perk_id)
+            _perk.save()
+            perk_list.append(_perk.to_json())
+        return perk_list
 
     def _get_perks_hash(self):
         return [prek['hash'] for prek in self.perks]

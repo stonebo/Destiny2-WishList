@@ -1,0 +1,102 @@
+{
+    "name": "Palmyra-B",
+    "id": 3489657138,
+    "damage_type": "Stasis",
+    "weapon_type": "Rocket Launcher",
+    "category": "PowerWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/60bc3fff04850b558963711dc3505ce5.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/3489657138.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 3300816228,
+                    "name": "Auto-Loading Holster",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png"
+                    }
+                },
+                {
+                    "hash": 3194351027,
+                    "name": "Explosive Light",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7381a042ca97533623f6dff66d8f0347.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "4514e94cedc407b22174cc09b38c9b82c0f2318b"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 3300816228,
+                    "name": "Auto-Loading Holster",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png"
+                    }
+                },
+                {
+                    "hash": 2275087323,
+                    "name": "Explosive Light",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7381a042ca97533623f6dff66d8f0347.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "af82899587194cabd775c8be3b353558da2c7d48"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 3528046508,
+                    "name": "Auto-Loading Holster",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png"
+                    }
+                },
+                {
+                    "hash": 3194351027,
+                    "name": "Explosive Light",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7381a042ca97533623f6dff66d8f0347.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "38d2bd68662a677e5cd99bc79e32f3fc960279bf"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 3528046508,
+                    "name": "Auto-Loading Holster",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png"
+                    }
+                },
+                {
+                    "hash": 2275087323,
+                    "name": "Explosive Light",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7381a042ca97533623f6dff66d8f0347.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "05273e16c41a9acf81bca6288faa6322ba3c5ab5"
+        }
+    ]
+}

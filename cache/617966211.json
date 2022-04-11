@@ -1,0 +1,154 @@
+{
+    "Response": {
+        "displayProperties": {
+            "description": "Each final blow increases charge/draw speed for an improved duration.",
+            "name": "Successful Warm-Up",
+            "icon": "/common/destiny2_content/icons/a6e39edc139e9cb7bd6c5175a8e6c7c8.png",
+            "iconSequences": [
+                {
+                    "frames": [
+                        "/common/destiny2_content/icons/a6e39edc139e9cb7bd6c5175a8e6c7c8.png"
+                    ]
+                },
+                {
+                    "frames": [
+                        "/common/destiny2_content/icons/bcab6957cb9e8f9f5e53012a45af3eb1.png"
+                    ]
+                }
+            ],
+            "hasIcon": true
+        },
+        "tooltipNotifications": [
+            {
+                "displayString": "Enhanced traits have greater capabilities than traits found on randomly dropped weapons. Use Ascendant Alloys found in challenging activities to upgrade enhanced traits.",
+                "displayStyle": "ui_display_style_info"
+            }
+        ],
+        "backgroundColor": {
+            "red": 0,
+            "green": 0,
+            "blue": 0,
+            "alpha": 0
+        },
+        "itemTypeDisplayName": "Enhanced Trait",
+        "flavorText": "",
+        "uiItemDisplayStyle": "",
+        "itemTypeAndTierDisplayName": "Uncommon Enhanced Trait",
+        "displaySource": "",
+        "tooltipStyle": "build",
+        "action": {
+            "verbName": "Dismantle",
+            "verbDescription": "",
+            "isPositive": false,
+            "requiredCooldownSeconds": 0,
+            "requiredItems": [],
+            "progressionRewards": [],
+            "actionTypeLabel": "shard",
+            "rewardSheetHash": 0,
+            "rewardItemHash": 0,
+            "rewardSiteHash": 0,
+            "requiredCooldownHash": 0,
+            "deleteOnAction": true,
+            "consumeEntireStack": false,
+            "useOnAcquire": false
+        },
+        "inventory": {
+            "maxStackSize": 1,
+            "bucketTypeHash": 1469714392,
+            "recoveryBucketTypeHash": 215593132,
+            "tierTypeHash": 2395677314,
+            "isInstanceItem": false,
+            "nonTransferrableOriginal": false,
+            "tierTypeName": "Uncommon",
+            "tierType": 3,
+            "expirationTooltip": "",
+            "expiredInActivityMessage": "",
+            "expiredInOrbitMessage": "",
+            "suppressExpirationWhenObjectivesComplete": true
+        },
+        "objectives": {
+            "objectiveHashes": [
+                2215515945
+            ],
+            "displayActivityHashes": [
+                2166136261
+            ],
+            "requireFullObjectiveCompletion": false,
+            "questlineItemHash": 0,
+            "narrative": "",
+            "objectiveVerbName": "",
+            "questTypeIdentifier": "",
+            "questTypeHash": 2166136261,
+            "completionRewardSiteHash": 0,
+            "nextQuestStepRewardSiteHash": 0,
+            "timestampUnlockValueHash": 0,
+            "isGlobalObjectiveItem": false,
+            "useOnObjectiveCompletion": false,
+            "inhibitCompletionUnlockValueHash": 0,
+            "perObjectiveDisplayProperties": [
+                {
+                    "displayOnItemPreviewScreen": false
+                }
+            ],
+            "displayAsStatTracker": false
+        },
+        "plug": {
+            "insertionRules": [],
+            "plugCategoryIdentifier": "frames",
+            "plugCategoryHash": 7906839,
+            "onActionRecreateSelf": false,
+            "actionRewardSiteHash": 0,
+            "actionRewardItemOverrideHash": 0,
+            "insertionMaterialRequirementHash": 0,
+            "previewItemOverrideHash": 0,
+            "enabledMaterialRequirementHash": 0,
+            "enabledRules": [],
+            "uiPlugLabel": "",
+            "plugStyle": 0,
+            "plugAvailability": 0,
+            "alternateUiPlugLabel": "",
+            "alternatePlugStyle": 0,
+            "isDummyPlug": false,
+            "applyStatsToSocketOwnerItem": false
+        },
+        "acquireRewardSiteHash": 0,
+        "acquireUnlockHash": 0,
+        "investmentStats": [],
+        "perks": [
+            {
+                "requirementDisplayString": "",
+                "perkHash": 2279761295,
+                "perkVisibility": 2
+            },
+            {
+                "requirementDisplayString": "",
+                "perkHash": 1898651759,
+                "perkVisibility": 2
+            }
+        ],
+        "summaryItemHash": 3520001075,
+        "allowActions": true,
+        "doesPostmasterPullHaveSideEffects": false,
+        "nonTransferrable": true,
+        "itemCategoryHashes": [
+            59
+        ],
+        "specialItemType": 0,
+        "itemType": 19,
+        "itemSubType": 0,
+        "classType": 3,
+        "breakerType": 0,
+        "equippable": false,
+        "defaultDamageType": 0,
+        "isWrapper": false,
+        "hash": 617966211,
+        "index": 15517,
+        "redacted": false,
+        "blacklisted": false
+    },
+    "ErrorCode": 1,
+    "ThrottleSeconds": 0,
+    "ErrorStatus": "Success",
+    "Message": "Ok",
+    "MessageData": {}
+}

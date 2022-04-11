@@ -1,0 +1,190 @@
+{
+    "name": "Pointed Inquiry",
+    "id": 297296830,
+    "damage_type": "Void",
+    "weapon_type": "Scout Rifle",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/f8d18fb4ecc5bc8179a9deab9a13cfd0.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/297296830.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1354429876,
+                    "name": "Fourth Time's the Charm",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/8134a0712e5b3120d4153e00d4e3b4b9.png"
+                    }
+                },
+                {
+                    "hash": 1048183818,
+                    "name": "Adaptive Munitions",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/34d2439a496988502f3a9dc54256082f.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "a49d3f60322a65a08faa81100d59c83bb0e97f00"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1354429876,
+                    "name": "Fourth Time's the Charm",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/8134a0712e5b3120d4153e00d4e3b4b9.png"
+                    }
+                },
+                {
+                    "hash": 3431277734,
+                    "name": "Adaptive Munitions",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/34d2439a496988502f3a9dc54256082f.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "52f3bb240600f537bbf8dfd764206fc5f0375f2d"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 848860060,
+                    "name": "Fourth Time's the Charm",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/8134a0712e5b3120d4153e00d4e3b4b9.png"
+                    }
+                },
+                {
+                    "hash": 1048183818,
+                    "name": "Adaptive Munitions",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/34d2439a496988502f3a9dc54256082f.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "2e4189edfb96cf300bcb5afdea632fb75559eb76"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 848860060,
+                    "name": "Fourth Time's the Charm",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/8134a0712e5b3120d4153e00d4e3b4b9.png"
+                    }
+                },
+                {
+                    "hash": 3431277734,
+                    "name": "Adaptive Munitions",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/34d2439a496988502f3a9dc54256082f.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "cf958abb859eab4d8b7afaa75b435cde54b79c65"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 3700496672,
+                    "name": "Shoot to Loot",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/5f4601133a7dad01a4f8afa9b63f92f0.png"
+                    }
+                },
+                {
+                    "hash": 1048183818,
+                    "name": "Adaptive Munitions",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/34d2439a496988502f3a9dc54256082f.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "c5a80666e8c2eb975f125fd31fb683abe9f2ad8e"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 3700496672,
+                    "name": "Shoot to Loot",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/5f4601133a7dad01a4f8afa9b63f92f0.png"
+                    }
+                },
+                {
+                    "hash": 3431277734,
+                    "name": "Adaptive Munitions",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/34d2439a496988502f3a9dc54256082f.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "c7c37957bda93dfff92b1a52f137605c702b0b78"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 2840833776,
+                    "name": "Shoot to Loot",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/5f4601133a7dad01a4f8afa9b63f92f0.png"
+                    }
+                },
+                {
+                    "hash": 1048183818,
+                    "name": "Adaptive Munitions",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/34d2439a496988502f3a9dc54256082f.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "b8975c12f8665e1201e7f11f9ec955e9dff1a9a0"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 2840833776,
+                    "name": "Shoot to Loot",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/5f4601133a7dad01a4f8afa9b63f92f0.png"
+                    }
+                },
+                {
+                    "hash": 3431277734,
+                    "name": "Adaptive Munitions",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/34d2439a496988502f3a9dc54256082f.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "704e4c5cabe4705d831178c7fadb7f975106eda0"
+        }
+    ]
+}

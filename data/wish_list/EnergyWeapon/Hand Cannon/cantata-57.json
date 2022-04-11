@@ -1,0 +1,358 @@
+{
+    "name": "Cantata-57",
+    "id": 372697604,
+    "damage_type": "Arc",
+    "weapon_type": "Hand Cannon",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/e5188c08ea04105f9883abe3296b5394.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/372697604.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 202670084,
+                    "name": "Full Bore",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png"
+                    }
+                },
+                {
+                    "hash": 3142289711,
+                    "name": "Accurized Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png"
+                    }
+                },
+                {
+                    "hash": 247725512,
+                    "name": "Rapid Hit",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/56f26a865c24a6a10cb4177794eb7788.png"
+                    }
+                },
+                {
+                    "hash": 2846385770,
+                    "name": "Rangefinder",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png"
+                    }
+                },
+                {
+                    "hash": 4008116374,
+                    "name": "Suros Synergy",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/6e67f277fe19b93159c466a41542b7b3.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "4c948e9fc30e4be139c21d24733d745ab6c89b3e"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 202670084,
+                    "name": "Full Bore",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png"
+                    }
+                },
+                {
+                    "hash": 3142289711,
+                    "name": "Accurized Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png"
+                    }
+                },
+                {
+                    "hash": 247725512,
+                    "name": "Rapid Hit",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/56f26a865c24a6a10cb4177794eb7788.png"
+                    }
+                },
+                {
+                    "hash": 47981717,
+                    "name": "Opening Shot",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png"
+                    }
+                },
+                {
+                    "hash": 4008116374,
+                    "name": "Suros Synergy",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/6e67f277fe19b93159c466a41542b7b3.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "beaa4d7ed2e996da11bd5d8fe59ad25393696ae2"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 202670084,
+                    "name": "Full Bore",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png"
+                    }
+                },
+                {
+                    "hash": 3142289711,
+                    "name": "Accurized Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png"
+                    }
+                },
+                {
+                    "hash": 1866048759,
+                    "name": "Hip-Fire Grip",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png"
+                    }
+                },
+                {
+                    "hash": 2846385770,
+                    "name": "Rangefinder",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png"
+                    }
+                },
+                {
+                    "hash": 4008116374,
+                    "name": "Suros Synergy",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/6e67f277fe19b93159c466a41542b7b3.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "54f592026f4257c5fe60877944cf826c57e5aebc"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 202670084,
+                    "name": "Full Bore",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png"
+                    }
+                },
+                {
+                    "hash": 3142289711,
+                    "name": "Accurized Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png"
+                    }
+                },
+                {
+                    "hash": 1866048759,
+                    "name": "Hip-Fire Grip",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png"
+                    }
+                },
+                {
+                    "hash": 47981717,
+                    "name": "Opening Shot",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png"
+                    }
+                },
+                {
+                    "hash": 4008116374,
+                    "name": "Suros Synergy",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/6e67f277fe19b93159c466a41542b7b3.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "8329255201f7e58cac3ca3e128b4412e8253c6d0"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1482024992,
+                    "name": "Smallbore",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png"
+                    }
+                },
+                {
+                    "hash": 3142289711,
+                    "name": "Accurized Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png"
+                    }
+                },
+                {
+                    "hash": 247725512,
+                    "name": "Rapid Hit",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/56f26a865c24a6a10cb4177794eb7788.png"
+                    }
+                },
+                {
+                    "hash": 2846385770,
+                    "name": "Rangefinder",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png"
+                    }
+                },
+                {
+                    "hash": 4008116374,
+                    "name": "Suros Synergy",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/6e67f277fe19b93159c466a41542b7b3.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "465121029b4a66ffea3bfe3b2830256fe67f0ca7"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1482024992,
+                    "name": "Smallbore",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png"
+                    }
+                },
+                {
+                    "hash": 3142289711,
+                    "name": "Accurized Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png"
+                    }
+                },
+                {
+                    "hash": 247725512,
+                    "name": "Rapid Hit",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/56f26a865c24a6a10cb4177794eb7788.png"
+                    }
+                },
+                {
+                    "hash": 47981717,
+                    "name": "Opening Shot",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png"
+                    }
+                },
+                {
+                    "hash": 4008116374,
+                    "name": "Suros Synergy",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/6e67f277fe19b93159c466a41542b7b3.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "5e2538749c89dea11a9d0d673af8a67dc264717e"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1482024992,
+                    "name": "Smallbore",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png"
+                    }
+                },
+                {
+                    "hash": 3142289711,
+                    "name": "Accurized Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png"
+                    }
+                },
+                {
+                    "hash": 1866048759,
+                    "name": "Hip-Fire Grip",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png"
+                    }
+                },
+                {
+                    "hash": 2846385770,
+                    "name": "Rangefinder",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png"
+                    }
+                },
+                {
+                    "hash": 4008116374,
+                    "name": "Suros Synergy",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/6e67f277fe19b93159c466a41542b7b3.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "b7305c031d4296cf7be709a76996a7e9b4c52fd7"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1482024992,
+                    "name": "Smallbore",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png"
+                    }
+                },
+                {
+                    "hash": 3142289711,
+                    "name": "Accurized Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png"
+                    }
+                },
+                {
+                    "hash": 1866048759,
+                    "name": "Hip-Fire Grip",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png"
+                    }
+                },
+                {
+                    "hash": 47981717,
+                    "name": "Opening Shot",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png"
+                    }
+                },
+                {
+                    "hash": 4008116374,
+                    "name": "Suros Synergy",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/6e67f277fe19b93159c466a41542b7b3.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "8bcff7de9d57ba5d8598113d107c165d79112480"
+        }
+    ]
+}

@@ -1,0 +1,278 @@
+{
+    "name": "Fel Taradiddle",
+    "id": 1399109800,
+    "damage_type": "Kinetic",
+    "weapon_type": "Combat Bow",
+    "category": "KineticWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/997b146a2c634d76904cf4ff8e233bce.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/1399109800.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 201365942,
+                    "name": "Archer's Tempo",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/97e9bacb1e28a1ee38b979192f090406.png"
+                    }
+                },
+                {
+                    "hash": 2652708987,
+                    "name": "Successful Warm-Up",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/a6e39edc139e9cb7bd6c5175a8e6c7c8.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "d4d51cbadbd1e469e25ecb5e5262625f85049179"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 201365942,
+                    "name": "Archer's Tempo",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/97e9bacb1e28a1ee38b979192f090406.png"
+                    }
+                },
+                {
+                    "hash": 617966211,
+                    "name": "Successful Warm-Up",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/a6e39edc139e9cb7bd6c5175a8e6c7c8.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "4b579de09a18bca78e7f48bd6ee6ca1c85400e78"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 201365942,
+                    "name": "Archer's Tempo",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/97e9bacb1e28a1ee38b979192f090406.png"
+                    }
+                },
+                {
+                    "hash": 3365897133,
+                    "name": "Explosive Head",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/71ae791d23ec5d3ddc62606645d00530.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "bf62980fd75645682de6b65f1db6c57f5fb5dc11"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 201365942,
+                    "name": "Archer's Tempo",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/97e9bacb1e28a1ee38b979192f090406.png"
+                    }
+                },
+                {
+                    "hash": 1551736345,
+                    "name": "Explosive Head",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/71ae791d23ec5d3ddc62606645d00530.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "ba4a3e75faa2a9429989d17456a047b8de46cd77"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 201365942,
+                    "name": "Archer's Tempo",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/97e9bacb1e28a1ee38b979192f090406.png"
+                    }
+                },
+                {
+                    "hash": 11612903,
+                    "name": "Adrenaline Junkie",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/92111c4f872db8112e71a1bb4c684609.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "caf9aee434b00045a59bd4d8e2b3677429cdc004"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 201365942,
+                    "name": "Archer's Tempo",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/97e9bacb1e28a1ee38b979192f090406.png"
+                    }
+                },
+                {
+                    "hash": 2422968039,
+                    "name": "Adrenaline Junkie",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/92111c4f872db8112e71a1bb4c684609.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "1b1db745e0ae5e7d93256384eae3970dc233a097"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 3523746922,
+                    "name": "Archer's Tempo",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/97e9bacb1e28a1ee38b979192f090406.png"
+                    }
+                },
+                {
+                    "hash": 2652708987,
+                    "name": "Successful Warm-Up",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/a6e39edc139e9cb7bd6c5175a8e6c7c8.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "f53de9660ce14008c5246c2a447f047c5aab824d"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 3523746922,
+                    "name": "Archer's Tempo",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/97e9bacb1e28a1ee38b979192f090406.png"
+                    }
+                },
+                {
+                    "hash": 617966211,
+                    "name": "Successful Warm-Up",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/a6e39edc139e9cb7bd6c5175a8e6c7c8.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "c5397fa175f1f385b1c9f3be3bfa4fa287b99789"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 3523746922,
+                    "name": "Archer's Tempo",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/97e9bacb1e28a1ee38b979192f090406.png"
+                    }
+                },
+                {
+                    "hash": 3365897133,
+                    "name": "Explosive Head",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/71ae791d23ec5d3ddc62606645d00530.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "9051e2f574e32379e6f70c34985ea4aa92706ea9"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 3523746922,
+                    "name": "Archer's Tempo",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/97e9bacb1e28a1ee38b979192f090406.png"
+                    }
+                },
+                {
+                    "hash": 1551736345,
+                    "name": "Explosive Head",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/71ae791d23ec5d3ddc62606645d00530.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "7780da7d9a7ea6385fa135e8c724eda3028d58e7"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 3523746922,
+                    "name": "Archer's Tempo",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/97e9bacb1e28a1ee38b979192f090406.png"
+                    }
+                },
+                {
+                    "hash": 11612903,
+                    "name": "Adrenaline Junkie",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/92111c4f872db8112e71a1bb4c684609.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "e59a856537786741d77a3fc21a31dae1fedda428"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 3523746922,
+                    "name": "Archer's Tempo",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/97e9bacb1e28a1ee38b979192f090406.png"
+                    }
+                },
+                {
+                    "hash": 2422968039,
+                    "name": "Adrenaline Junkie",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/92111c4f872db8112e71a1bb4c684609.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "16922f2ea0254f8f675ea7176d3023f4ff8f96fd"
+        }
+    ]
+}

@@ -23,7 +23,8 @@ class WishList:
     def import_dim_file(self, file_path: str):
         with open(file_path, "r") as fp:
             wishlist = fp.readlines()
-        self.import_dim_list(wishlist)
+        _wish_list = [str(line).replace("\n", "") for line in wishlist]
+        self.import_dim_list(_wish_list)
 
     def import_dim_list(self, wish_list: list):
         for wish_item in wish_list:
@@ -31,8 +32,12 @@ class WishList:
             self.import_dim_wish_item(wish_item)
 
     def import_dim_wish_item(self, wish_item: str):
-        _parse = DimParser(wish_item)
-        self._import2wishlist(_parse)
+        try:
+            _parse = DimParser(wish_item)
+        except ValueError:
+            logger.warning("Invalid dim wish list data format")
+        else:
+            self._import2wishlist(_parse)
 
     def _import2wishlist(self, parser: WishListParser):
         if parser.id in self.wish_list.keys():

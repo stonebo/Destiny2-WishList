@@ -1,0 +1,358 @@
+{
+    "name": "Krait",
+    "id": 2852052802,
+    "damage_type": "Stasis",
+    "weapon_type": "Auto Rifle",
+    "category": "KineticWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/e1b64a533cbbb561fd12cfc170763f76.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/2852052802.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1482024992,
+                    "name": "Smallbore",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png"
+                    }
+                },
+                {
+                    "hash": 1885400500,
+                    "name": "Ricochet Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png"
+                    }
+                },
+                {
+                    "hash": 1583705720,
+                    "name": "Stats for All",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/22a761b1ce7490a447e38d2b0e98b41f.png"
+                    }
+                },
+                {
+                    "hash": 4049631843,
+                    "name": "One for All",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/b7106e2123d59e57a1547bc006892ebc.png"
+                    }
+                },
+                {
+                    "hash": 3988215619,
+                    "name": "Veist Stinger",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/e41eeced6fd09493f6ba87e3cd20112f.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "ee1665cf4bd93846206459e9d0dcc21e80001964"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1482024992,
+                    "name": "Smallbore",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png"
+                    }
+                },
+                {
+                    "hash": 1885400500,
+                    "name": "Ricochet Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png"
+                    }
+                },
+                {
+                    "hash": 1583705720,
+                    "name": "Stats for All",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/22a761b1ce7490a447e38d2b0e98b41f.png"
+                    }
+                },
+                {
+                    "hash": 588594999,
+                    "name": "Moving Target",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png"
+                    }
+                },
+                {
+                    "hash": 3988215619,
+                    "name": "Veist Stinger",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/e41eeced6fd09493f6ba87e3cd20112f.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "e7a1158ec91e741c8fc0310a2515f6d8458c0dd4"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1482024992,
+                    "name": "Smallbore",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png"
+                    }
+                },
+                {
+                    "hash": 1885400500,
+                    "name": "Ricochet Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png"
+                    }
+                },
+                {
+                    "hash": 3643424744,
+                    "name": "Overflow",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/e5d9d70aadec948e851d443c64ff5d9d.png"
+                    }
+                },
+                {
+                    "hash": 4049631843,
+                    "name": "One for All",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/b7106e2123d59e57a1547bc006892ebc.png"
+                    }
+                },
+                {
+                    "hash": 3988215619,
+                    "name": "Veist Stinger",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/e41eeced6fd09493f6ba87e3cd20112f.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "43772881e8656104162bc73adc68e80175039666"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1482024992,
+                    "name": "Smallbore",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png"
+                    }
+                },
+                {
+                    "hash": 1885400500,
+                    "name": "Ricochet Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png"
+                    }
+                },
+                {
+                    "hash": 3643424744,
+                    "name": "Overflow",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/e5d9d70aadec948e851d443c64ff5d9d.png"
+                    }
+                },
+                {
+                    "hash": 588594999,
+                    "name": "Moving Target",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png"
+                    }
+                },
+                {
+                    "hash": 3988215619,
+                    "name": "Veist Stinger",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/e41eeced6fd09493f6ba87e3cd20112f.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "bab982e9eb139f51659c379c38488963946a5742"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 202670084,
+                    "name": "Full Bore",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png"
+                    }
+                },
+                {
+                    "hash": 1885400500,
+                    "name": "Ricochet Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png"
+                    }
+                },
+                {
+                    "hash": 1583705720,
+                    "name": "Stats for All",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/22a761b1ce7490a447e38d2b0e98b41f.png"
+                    }
+                },
+                {
+                    "hash": 4049631843,
+                    "name": "One for All",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/b7106e2123d59e57a1547bc006892ebc.png"
+                    }
+                },
+                {
+                    "hash": 3988215619,
+                    "name": "Veist Stinger",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/e41eeced6fd09493f6ba87e3cd20112f.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "bc4954f3c3d2f4911df06fdfafeb25a567e358b0"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 202670084,
+                    "name": "Full Bore",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png"
+                    }
+                },
+                {
+                    "hash": 1885400500,
+                    "name": "Ricochet Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png"
+                    }
+                },
+                {
+                    "hash": 1583705720,
+                    "name": "Stats for All",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/22a761b1ce7490a447e38d2b0e98b41f.png"
+                    }
+                },
+                {
+                    "hash": 588594999,
+                    "name": "Moving Target",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png"
+                    }
+                },
+                {
+                    "hash": 3988215619,
+                    "name": "Veist Stinger",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/e41eeced6fd09493f6ba87e3cd20112f.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "14207bcdff12e53968024ab9375ee8b0ef9b113d"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 202670084,
+                    "name": "Full Bore",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png"
+                    }
+                },
+                {
+                    "hash": 1885400500,
+                    "name": "Ricochet Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png"
+                    }
+                },
+                {
+                    "hash": 3643424744,
+                    "name": "Overflow",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/e5d9d70aadec948e851d443c64ff5d9d.png"
+                    }
+                },
+                {
+                    "hash": 4049631843,
+                    "name": "One for All",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/b7106e2123d59e57a1547bc006892ebc.png"
+                    }
+                },
+                {
+                    "hash": 3988215619,
+                    "name": "Veist Stinger",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/e41eeced6fd09493f6ba87e3cd20112f.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "5ce8675e55e31465b5c070875c76c017f11a38e7"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 202670084,
+                    "name": "Full Bore",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png"
+                    }
+                },
+                {
+                    "hash": 1885400500,
+                    "name": "Ricochet Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png"
+                    }
+                },
+                {
+                    "hash": 3643424744,
+                    "name": "Overflow",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/e5d9d70aadec948e851d443c64ff5d9d.png"
+                    }
+                },
+                {
+                    "hash": 588594999,
+                    "name": "Moving Target",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png"
+                    }
+                },
+                {
+                    "hash": 3988215619,
+                    "name": "Veist Stinger",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/e41eeced6fd09493f6ba87e3cd20112f.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "6f3d123e81a164e9f6b36d8b2381307d9198c852"
+        }
+    ]
+}

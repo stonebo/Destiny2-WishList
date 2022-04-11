@@ -1,0 +1,36 @@
+{
+    "name": "Razor's Edge",
+    "id": 1796949035,
+    "damage_type": "Void",
+    "weapon_type": "Sword",
+    "category": "PowerWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/107a370571ab5099fbb0c8983499610d.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/1796949035.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 2590710093,
+                    "name": "Tireless Blade",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/8d005d05d75b57fe0a78e2aa68519e68.png"
+                    }
+                },
+                {
+                    "hash": 2396489472,
+                    "name": "Chain Reaction",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/3826c3af844cc97534cf1a64cec2f6b2.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "2ffe656a0048c91692f56f3dcd9dd51ca72ba6db"
+        }
+    ]
+}

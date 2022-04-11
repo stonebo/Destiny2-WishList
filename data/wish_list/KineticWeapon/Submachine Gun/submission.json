@@ -12,10 +12,34 @@
     "perks": [
         {
             "perks": [
-                "839105230",
-                "2420895100",
-                "509074078",
-                "3078487919"
+                {
+                    "hash": 839105230,
+                    "name": "Arrowhead Brake",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png"
+                    }
+                },
+                {
+                    "hash": 2420895100,
+                    "name": "Extended Mag",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png"
+                    }
+                },
+                {
+                    "hash": 509074078,
+                    "name": "Steady Hands",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c3fb585f44247e337b766645aea0cd15.png"
+                    }
+                },
+                {
+                    "hash": 3078487919,
+                    "name": "Bait and Switch",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/45f3abf37a1c72fbd0dd573621bdc604.png"
+                    }
+                }
             ],
             "pvp": false,
             "pve": false,
@@ -24,10 +48,34 @@
         },
         {
             "perks": [
-                "839105230",
-                "2420895100",
-                "2209918983",
-                "3078487919"
+                {
+                    "hash": 839105230,
+                    "name": "Arrowhead Brake",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png"
+                    }
+                },
+                {
+                    "hash": 2420895100,
+                    "name": "Extended Mag",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png"
+                    }
+                },
+                {
+                    "hash": 2209918983,
+                    "name": "Turnabout",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/f5deb8560905fd86ef8416da762098d6.png"
+                    }
+                },
+                {
+                    "hash": 3078487919,
+                    "name": "Bait and Switch",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/45f3abf37a1c72fbd0dd573621bdc604.png"
+                    }
+                }
             ],
             "pvp": false,
             "pve": false,

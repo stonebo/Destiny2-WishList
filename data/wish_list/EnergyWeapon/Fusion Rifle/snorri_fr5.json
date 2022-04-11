@@ -1,0 +1,86 @@
+{
+    "name": "Snorri FR5",
+    "id": 4114929480,
+    "damage_type": "Void",
+    "weapon_type": "Fusion Rifle",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/efd289a72ab64553dda6d6d5be92260a.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/4114929480.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1482024992,
+                    "name": "Smallbore",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png"
+                    }
+                },
+                {
+                    "hash": 1687452232,
+                    "name": "Liquid Coils",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/381b7a519ca06b70b5ff8f793dfad038.png"
+                    }
+                },
+                {
+                    "hash": 280464955,
+                    "name": "Firmly Planted",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/bc9da416fe98c79b59074403084765b7.png"
+                    }
+                },
+                {
+                    "hash": 2652708987,
+                    "name": "Successful Warm-Up",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/a6e39edc139e9cb7bd6c5175a8e6c7c8.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "6a980cbbb48a57f283c53f64737176e38e8dd33b"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 202670084,
+                    "name": "Full Bore",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png"
+                    }
+                },
+                {
+                    "hash": 2969185026,
+                    "name": "Projection Fuse",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/253e7147a06242e8305ddf1c5571a9fc.png"
+                    }
+                },
+                {
+                    "hash": 280464955,
+                    "name": "Firmly Planted",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/bc9da416fe98c79b59074403084765b7.png"
+                    }
+                },
+                {
+                    "hash": 2652708987,
+                    "name": "Successful Warm-Up",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/a6e39edc139e9cb7bd6c5175a8e6c7c8.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "a96a0c46599224451c603a35c4afd7deec6a173a"
+        }
+    ]
+}
