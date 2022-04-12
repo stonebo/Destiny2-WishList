@@ -63,7 +63,3 @@ class WishList:
                     logger.info(f"Add #{index} perk to item id {item_id}")
                     item.add_perks(parser.perk_list)
                 item.save()
-
-
-
-

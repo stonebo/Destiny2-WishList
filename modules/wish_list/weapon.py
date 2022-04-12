@@ -42,13 +42,13 @@ class Destiny2Weapon(Destiny2Inventory):
 
     @property
     def json_data_path(self):
-        file_name = f"{self.name.replace(' ', '_').lower()}.json"
         return os.path.join(workspace(),
                             "data",
                             "wish_list",
                             self.category,
                             self.weapon_type,
-                            file_name)
+                            self.name.replace(' ', '_').lower(),
+                            "data.json")
 
     @property
     def category(self):
@@ -77,7 +77,10 @@ class Destiny2Weapon(Destiny2Inventory):
         return json_data
 
     def _load_exist_perks(self):
-        _json_data = self._load_exist_data()
+        try:
+            _json_data = self._load_exist_data()
+        except jsonlib.JSONDecodeError:
+            _json_data = None
         if _json_data is not None:
             for perk in _json_data.get("perks", []):
                 self.perks.append(perk)
