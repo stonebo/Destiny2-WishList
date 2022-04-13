@@ -2,25 +2,25 @@ import copy
 import os
 import json as jsonlib
 from abc import ABC, abstractmethod
-from IPython.core.display import HTML
 import pandas as pd
 from ..utils import workspace
 
 
 class Export(ABC):
-    def __init__(self, output: str):
+    def __init__(self, output: str, profile: str = "default"):
         """
 
         Args:
             output (str): Output File Path
         """
+        self.profile = profile
         self.file_ext_check(output)
         self.output = output
         self.data = None
 
     def list_exist_dirs(self):
         perk_dir_list = []
-        for root, dirs, files in os.walk(os.path.join(workspace(), "data", "wish_list")):
+        for root, dirs, files in os.walk(os.path.join(workspace(), "data", "wish_list", self.profile)):
             if "icons" in dirs and "data.json" in files:
                 perk_dir_list.append(root)
         return perk_dir_list
@@ -89,8 +89,7 @@ class HTMLExport(Export):
                                      "wish perk #1",
                                      "wish perk #2",
                                      "wish perk #3",
-                                     "wish perk #4",
-                                     "wish perk #5",
+                                     "wish perk #4"
                                  ])
 
     def path_to_image_html(self, path):

@@ -14,7 +14,8 @@ logger = logging.getLogger()
 class Destiny2Inventory(ABC):
     Baseurl = "https://bungie.net"
 
-    def __init__(self, hash_id: str):
+    def __init__(self, hash_id: str, profile: str = "default"):
+        self.profile = profile
         self.resp = self._get_resp_from_bungie(hash_id)
 
     def _get_resp_from_bungie(self, hash_id: str, refresh: bool = False):

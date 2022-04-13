@@ -1,0 +1,122 @@
+{
+    "name": "Riiswalker",
+    "id": 108221785,
+    "damage_type": "Kinetic",
+    "weapon_type": "Shotgun",
+    "category": "KineticWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/160b59ce11e5eb306a2fae10d0697ed8.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/108221785.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/a9faab035e2f59f802e99641a3aaab9e.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1300023272,
+                    "name": "Barrel Shroud",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7c81469db03f7111f8d248b54c83d7cf.png"
+                    }
+                },
+                {
+                    "hash": 791862061,
+                    "name": "Assault Mag",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png"
+                    }
+                },
+                {
+                    "hash": 706527188,
+                    "name": "Quickdraw",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png"
+                    }
+                },
+                {
+                    "hash": 1546637391,
+                    "name": "Vorpal Weapon",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/6f82df3f2505654c266d2ee34c2a922d.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "3e9e80db1e3283697871ab96544bfea8e03d0a4e"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1300023272,
+                    "name": "Barrel Shroud",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7c81469db03f7111f8d248b54c83d7cf.png"
+                    }
+                },
+                {
+                    "hash": 791862061,
+                    "name": "Assault Mag",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png"
+                    }
+                },
+                {
+                    "hash": 2039302152,
+                    "name": "Slideways",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/ccac4f90945c16a520b823d2a6cd48a3.png"
+                    }
+                },
+                {
+                    "hash": 2450788523,
+                    "name": "Killing Wind",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/28114b59ba79d4abd5ea978cbd00e665.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "f04cb8e79d56de75f66d51e472c944b5a1dca020"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1482024992,
+                    "name": "Smallbore",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png"
+                    }
+                },
+                {
+                    "hash": 791862061,
+                    "name": "Assault Mag",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png"
+                    }
+                },
+                {
+                    "hash": 706527188,
+                    "name": "Quickdraw",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png"
+                    }
+                },
+                {
+                    "hash": 591790007,
+                    "name": "Iron Reach",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/3246e13e86c8700c65c76052a729924d.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "9cd2a30650ebc5133ab175da4cace988f7eddabc"
+        }
+    ]
+}

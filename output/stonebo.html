@@ -1,0 +1,560 @@
+
+        <html>
+            <head><title>HTML Pandas Dataframe with CSS</title></head>
+            <link rel="stylesheet" type="text/css" href="style.css"/>
+            <body>
+                <table border="1" class="dataframe mystyle">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>name</th>
+      <th>season</th>
+      <th>icon</th>
+      <th>category</th>
+      <th>type</th>
+      <th>damage type</th>
+      <th>wish perk #1</th>
+      <th>wish perk #2</th>
+      <th>wish perk #3</th>
+      <th>wish perk #4</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>Submission</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/13a8ca6a28104aa2881534b2ef315ea6.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Submachine Gun</td>
+      <td>Kinetic</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/03d774525048e5eb5b6899b37d418920.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/5f346569b07ad452768b16a255ebd168.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Submission</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/13a8ca6a28104aa2881534b2ef315ea6.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Submachine Gun</td>
+      <td>Kinetic</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/03d774525048e5eb5b6899b37d418920.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/53ead908917c9156457c7c9dd453d649.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Submission</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/13a8ca6a28104aa2881534b2ef315ea6.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Submachine Gun</td>
+      <td>Kinetic</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/4aaf4030ba98b68791a8135464f9a289.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/5f346569b07ad452768b16a255ebd168.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Submission</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/13a8ca6a28104aa2881534b2ef315ea6.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Submachine Gun</td>
+      <td>Kinetic</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/4aaf4030ba98b68791a8135464f9a289.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/53ead908917c9156457c7c9dd453d649.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Fortissimo-11</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/f81ff7fb91dda72d44de3068cdecfe52.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Shotgun</td>
+      <td>Kinetic</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/53ead908917c9156457c7c9dd453d649.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/92111c4f872db8112e71a1bb4c684609.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>Fortissimo-11</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/f81ff7fb91dda72d44de3068cdecfe52.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Shotgun</td>
+      <td>Kinetic</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/53ead908917c9156457c7c9dd453d649.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/6f82df3f2505654c266d2ee34c2a922d.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>Fortissimo-11</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/f81ff7fb91dda72d44de3068cdecfe52.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Shotgun</td>
+      <td>Kinetic</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/5838b4ef410895011edfed3eaf11641f.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/6f82df3f2505654c266d2ee34c2a922d.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>Fortissimo-11</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/f81ff7fb91dda72d44de3068cdecfe52.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Shotgun</td>
+      <td>Kinetic</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/4aaf4030ba98b68791a8135464f9a289.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>Fortissimo-11</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/f81ff7fb91dda72d44de3068cdecfe52.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Shotgun</td>
+      <td>Kinetic</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/4aaf4030ba98b68791a8135464f9a289.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/6f82df3f2505654c266d2ee34c2a922d.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>Fortissimo-11</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/f81ff7fb91dda72d44de3068cdecfe52.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Shotgun</td>
+      <td>Kinetic</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/6f82df3f2505654c266d2ee34c2a922d.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>Fortissimo-11</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/f81ff7fb91dda72d44de3068cdecfe52.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Shotgun</td>
+      <td>Kinetic</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>Riiswalker</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/a9faab035e2f59f802e99641a3aaab9e.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/160b59ce11e5eb306a2fae10d0697ed8.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Shotgun</td>
+      <td>Kinetic</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/7c81469db03f7111f8d248b54c83d7cf.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/6f82df3f2505654c266d2ee34c2a922d.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>Riiswalker</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/a9faab035e2f59f802e99641a3aaab9e.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/160b59ce11e5eb306a2fae10d0697ed8.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Shotgun</td>
+      <td>Kinetic</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/7c81469db03f7111f8d248b54c83d7cf.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/ccac4f90945c16a520b823d2a6cd48a3.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/28114b59ba79d4abd5ea978cbd00e665.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>Riiswalker</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/a9faab035e2f59f802e99641a3aaab9e.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/160b59ce11e5eb306a2fae10d0697ed8.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Shotgun</td>
+      <td>Kinetic</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/3246e13e86c8700c65c76052a729924d.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>Ragnhild-D</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/90f63be3eb246360c07a11d73d2254a0.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Shotgun</td>
+      <td>Kinetic</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/a85cb5a7011708991cfbadfb9823ade0.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/03d774525048e5eb5b6899b37d418920.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/53ead908917c9156457c7c9dd453d649.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td>Ragnhild-D</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/90f63be3eb246360c07a11d73d2254a0.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Shotgun</td>
+      <td>Kinetic</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/a85cb5a7011708991cfbadfb9823ade0.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/03d774525048e5eb5b6899b37d418920.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/41a15e4b4d7c185e878b44e293ec8c76.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>Ragnhild-D</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/90f63be3eb246360c07a11d73d2254a0.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Shotgun</td>
+      <td>Kinetic</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/7c81469db03f7111f8d248b54c83d7cf.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/9e8b9d285c5064ad85a0b7dbcb911f36.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td>Ragnhild-D</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/90f63be3eb246360c07a11d73d2254a0.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Shotgun</td>
+      <td>Kinetic</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/7c81469db03f7111f8d248b54c83d7cf.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/03d774525048e5eb5b6899b37d418920.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/9e8b9d285c5064ad85a0b7dbcb911f36.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td>Fel Taradiddle</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/997b146a2c634d76904cf4ff8e233bce.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Combat Bow</td>
+      <td>Kinetic</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/f58a93d2728c6eaf17e971c006e8aa7c.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/0dca9631d83ecaeb27bb39c7d2bf7679.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/97e9bacb1e28a1ee38b979192f090406.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/71ae791d23ec5d3ddc62606645d00530.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>19</th>
+      <td>Fel Taradiddle</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/997b146a2c634d76904cf4ff8e233bce.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Combat Bow</td>
+      <td>Kinetic</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/f58a93d2728c6eaf17e971c006e8aa7c.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/eba4d202086df5d676fe0435eeb27ec1.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/a6e39edc139e9cb7bd6c5175a8e6c7c8.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>20</th>
+      <td>Thoughtless</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/b0406992c49c84bdc5febad94048dc01.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/7d819cb5443b99788888d29436be366a.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Sniper Rifle</td>
+      <td>Stasis</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/56f26a865c24a6a10cb4177794eb7788.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/d20201c3a2512d582af9be538f29d4f8.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>21</th>
+      <td>Thoughtless</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/b0406992c49c84bdc5febad94048dc01.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/7d819cb5443b99788888d29436be366a.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Sniper Rifle</td>
+      <td>Stasis</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/e5d9d70aadec948e851d443c64ff5d9d.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/56de085547e63a25473c854f1a50697c.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>22</th>
+      <td>Thoughtless</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/b0406992c49c84bdc5febad94048dc01.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/7d819cb5443b99788888d29436be366a.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Sniper Rifle</td>
+      <td>Stasis</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/c3fb585f44247e337b766645aea0cd15.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>23</th>
+      <td>Thoughtless</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/b0406992c49c84bdc5febad94048dc01.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/7d819cb5443b99788888d29436be366a.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Sniper Rifle</td>
+      <td>Stasis</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/e5d9d70aadec948e851d443c64ff5d9d.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>24</th>
+      <td>Perses-D</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/2d3e60f36d9355c7a3a99aaa972d934e.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Scout Rifle</td>
+      <td>Stasis</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/56f26a865c24a6a10cb4177794eb7788.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/6f82df3f2505654c266d2ee34c2a922d.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>25</th>
+      <td>Perses-D</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/2d3e60f36d9355c7a3a99aaa972d934e.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Scout Rifle</td>
+      <td>Stasis</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/56f26a865c24a6a10cb4177794eb7788.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/d41dd918d42681c5b0ad00880274b22c.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>26</th>
+      <td>Perses-D</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/2d3e60f36d9355c7a3a99aaa972d934e.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Scout Rifle</td>
+      <td>Stasis</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/dce6ca3c9276e5c10432cb99685ea62e.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>27</th>
+      <td>Perses-D</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/2d3e60f36d9355c7a3a99aaa972d934e.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Scout Rifle</td>
+      <td>Stasis</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/dce6ca3c9276e5c10432cb99685ea62e.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/6f82df3f2505654c266d2ee34c2a922d.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>28</th>
+      <td>Krait</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/e1b64a533cbbb561fd12cfc170763f76.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Auto Rifle</td>
+      <td>Stasis</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/03d774525048e5eb5b6899b37d418920.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/42c5accd138e4daf1314db368670975a.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>29</th>
+      <td>Krait</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/e1b64a533cbbb561fd12cfc170763f76.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Auto Rifle</td>
+      <td>Stasis</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/03d774525048e5eb5b6899b37d418920.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/6f82df3f2505654c266d2ee34c2a922d.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>30</th>
+      <td>Krait</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/e1b64a533cbbb561fd12cfc170763f76.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Auto Rifle</td>
+      <td>Stasis</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/03d774525048e5eb5b6899b37d418920.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/b7106e2123d59e57a1547bc006892ebc.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>31</th>
+      <td>Eyasluna</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/dd4dd93c5606998595d9e5a06d5bfc9c.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/48cc688e5189a7718babe26d591fb966.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Hand Cannon</td>
+      <td>Stasis</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/42c5accd138e4daf1314db368670975a.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>32</th>
+      <td>Eyasluna</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/dd4dd93c5606998595d9e5a06d5bfc9c.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/48cc688e5189a7718babe26d591fb966.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Hand Cannon</td>
+      <td>Stasis</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>33</th>
+      <td>Eyasluna</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/dd4dd93c5606998595d9e5a06d5bfc9c.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/48cc688e5189a7718babe26d591fb966.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Hand Cannon</td>
+      <td>Stasis</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/4aaf4030ba98b68791a8135464f9a289.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>34</th>
+      <td>Piece of Mind</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/b0406992c49c84bdc5febad94048dc01.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/966f519a21a6339c26c1b4b05f2ed19d.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Pulse Rifle</td>
+      <td>Kinetic</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/4aaf4030ba98b68791a8135464f9a289.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/6f82df3f2505654c266d2ee34c2a922d.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>35</th>
+      <td>Piece of Mind</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/b0406992c49c84bdc5febad94048dc01.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/966f519a21a6339c26c1b4b05f2ed19d.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Pulse Rifle</td>
+      <td>Kinetic</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/22a761b1ce7490a447e38d2b0e98b41f.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/6f82df3f2505654c266d2ee34c2a922d.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>36</th>
+      <td>Piece of Mind</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/b0406992c49c84bdc5febad94048dc01.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/966f519a21a6339c26c1b4b05f2ed19d.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Pulse Rifle</td>
+      <td>Kinetic</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/4aaf4030ba98b68791a8135464f9a289.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>37</th>
+      <td>Piece of Mind</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/b0406992c49c84bdc5febad94048dc01.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/966f519a21a6339c26c1b4b05f2ed19d.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Pulse Rifle</td>
+      <td>Kinetic</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/ec51692c4a55ecf0b8a11065791bdc92.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>38</th>
+      <td>Syncopation-53</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/5f10f3e4e574f8909f5399b1340864de.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Pulse Rifle</td>
+      <td>Stasis</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/42c5accd138e4daf1314db368670975a.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>39</th>
+      <td>Syncopation-53</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/5f10f3e4e574f8909f5399b1340864de.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Pulse Rifle</td>
+      <td>Stasis</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/42c5accd138e4daf1314db368670975a.png" width="60" ></td>
+    </tr>
+    <tr>
+      <th>40</th>
+      <td>Syncopation-53</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/5f10f3e4e574f8909f5399b1340864de.jpg" width="60" ></td>
+      <td>KineticWeapon</td>
+      <td>Pulse Rifle</td>
+      <td>Stasis</td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png" width="60" ></td>
+      <td><img src="https://bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png" width="60" ></td>
+    </tr>
+  </tbody>
+</table>
+            </body>
+        </html>.
+        

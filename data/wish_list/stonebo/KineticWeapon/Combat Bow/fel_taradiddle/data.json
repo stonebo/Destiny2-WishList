@@ -1,0 +1,86 @@
+{
+    "name": "Fel Taradiddle",
+    "id": 1399109800,
+    "damage_type": "Kinetic",
+    "weapon_type": "Combat Bow",
+    "category": "KineticWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/997b146a2c634d76904cf4ff8e233bce.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/1399109800.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 3768438372,
+                    "name": "Agile Bowstring",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/f58a93d2728c6eaf17e971c006e8aa7c.png"
+                    }
+                },
+                {
+                    "hash": 2154191829,
+                    "name": "Carbon Arrow Shaft",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/0dca9631d83ecaeb27bb39c7d2bf7679.png"
+                    }
+                },
+                {
+                    "hash": 201365942,
+                    "name": "Archer's Tempo",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/97e9bacb1e28a1ee38b979192f090406.png"
+                    }
+                },
+                {
+                    "hash": 3365897133,
+                    "name": "Explosive Head",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/71ae791d23ec5d3ddc62606645d00530.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "1576c2c19e8538430ae6955f46e4c2443cdbb306"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 3768438372,
+                    "name": "Agile Bowstring",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/f58a93d2728c6eaf17e971c006e8aa7c.png"
+                    }
+                },
+                {
+                    "hash": 3429800428,
+                    "name": "Fiberglass Arrow Shaft",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/eba4d202086df5d676fe0435eeb27ec1.png"
+                    }
+                },
+                {
+                    "hash": 2846385770,
+                    "name": "Rangefinder",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png"
+                    }
+                },
+                {
+                    "hash": 2652708987,
+                    "name": "Successful Warm-Up",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/a6e39edc139e9cb7bd6c5175a8e6c7c8.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "d6fa071f4571af1ea98eeea262c31451b1dba5b2"
+        }
+    ]
+}

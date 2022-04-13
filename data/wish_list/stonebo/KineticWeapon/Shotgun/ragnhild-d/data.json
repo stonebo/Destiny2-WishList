@@ -1,0 +1,158 @@
+{
+    "name": "Ragnhild-D",
+    "id": 4225322581,
+    "damage_type": "Kinetic",
+    "weapon_type": "Shotgun",
+    "category": "KineticWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/90f63be3eb246360c07a11d73d2254a0.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/4225322581.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 466087222,
+                    "name": "Smoothbore",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/a85cb5a7011708991cfbadfb9823ade0.png"
+                    }
+                },
+                {
+                    "hash": 791862061,
+                    "name": "Assault Mag",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png"
+                    }
+                },
+                {
+                    "hash": 1820235745,
+                    "name": "Subsistence",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/03d774525048e5eb5b6899b37d418920.png"
+                    }
+                },
+                {
+                    "hash": 3523296417,
+                    "name": "Demolitionist",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/53ead908917c9156457c7c9dd453d649.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "325e8baef00c0d687b8eb87f0b97ba796e4e41d9"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 466087222,
+                    "name": "Smoothbore",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/a85cb5a7011708991cfbadfb9823ade0.png"
+                    }
+                },
+                {
+                    "hash": 791862061,
+                    "name": "Assault Mag",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png"
+                    }
+                },
+                {
+                    "hash": 1820235745,
+                    "name": "Subsistence",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/03d774525048e5eb5b6899b37d418920.png"
+                    }
+                },
+                {
+                    "hash": 3511092054,
+                    "name": "Elemental Capacitor",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/41a15e4b4d7c185e878b44e293ec8c76.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "4db5bbbc5fb4f4c80e0c66577c5c700d6655bee0"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1300023272,
+                    "name": "Barrel Shroud",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7c81469db03f7111f8d248b54c83d7cf.png"
+                    }
+                },
+                {
+                    "hash": 791862061,
+                    "name": "Assault Mag",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png"
+                    }
+                },
+                {
+                    "hash": 3300816228,
+                    "name": "Auto-Loading Holster",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png"
+                    }
+                },
+                {
+                    "hash": 2679249093,
+                    "name": "One-Two Punch",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/9e8b9d285c5064ad85a0b7dbcb911f36.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "a22625abe678b50ea5b997f19324d83fcfa9b89d"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1300023272,
+                    "name": "Barrel Shroud",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7c81469db03f7111f8d248b54c83d7cf.png"
+                    }
+                },
+                {
+                    "hash": 791862061,
+                    "name": "Assault Mag",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png"
+                    }
+                },
+                {
+                    "hash": 1820235745,
+                    "name": "Subsistence",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/03d774525048e5eb5b6899b37d418920.png"
+                    }
+                },
+                {
+                    "hash": 2679249093,
+                    "name": "One-Two Punch",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/9e8b9d285c5064ad85a0b7dbcb911f36.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "1e1f3693fbebe0d5754dc32aa00fee83391e6ed8"
+        }
+    ]
+}

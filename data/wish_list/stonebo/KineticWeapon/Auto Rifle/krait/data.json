@@ -1,0 +1,122 @@
+{
+    "name": "Krait",
+    "id": 2852052802,
+    "damage_type": "Stasis",
+    "weapon_type": "Auto Rifle",
+    "category": "KineticWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/e1b64a533cbbb561fd12cfc170763f76.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/2852052802.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 839105230,
+                    "name": "Arrowhead Brake",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png"
+                    }
+                },
+                {
+                    "hash": 3230963543,
+                    "name": "Flared Magwell",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png"
+                    }
+                },
+                {
+                    "hash": 1820235745,
+                    "name": "Subsistence",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/03d774525048e5eb5b6899b37d418920.png"
+                    }
+                },
+                {
+                    "hash": 124408337,
+                    "name": "Headstone",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/42c5accd138e4daf1314db368670975a.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "5c94bea8c70d43870c2a3abe5ccd8fac739a10f3"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 839105230,
+                    "name": "Arrowhead Brake",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png"
+                    }
+                },
+                {
+                    "hash": 3230963543,
+                    "name": "Flared Magwell",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png"
+                    }
+                },
+                {
+                    "hash": 1820235745,
+                    "name": "Subsistence",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/03d774525048e5eb5b6899b37d418920.png"
+                    }
+                },
+                {
+                    "hash": 1546637391,
+                    "name": "Vorpal Weapon",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/6f82df3f2505654c266d2ee34c2a922d.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "25a86e8646893cb5fc6798690f2b8eced8808503"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 839105230,
+                    "name": "Arrowhead Brake",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png"
+                    }
+                },
+                {
+                    "hash": 3230963543,
+                    "name": "Flared Magwell",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png"
+                    }
+                },
+                {
+                    "hash": 1820235745,
+                    "name": "Subsistence",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/03d774525048e5eb5b6899b37d418920.png"
+                    }
+                },
+                {
+                    "hash": 4049631843,
+                    "name": "One for All",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/b7106e2123d59e57a1547bc006892ebc.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "09a5a0042b6600cb39a1556323c127cc473490e1"
+        }
+    ]
+}

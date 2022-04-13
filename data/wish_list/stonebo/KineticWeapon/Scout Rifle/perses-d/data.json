@@ -1,0 +1,158 @@
+{
+    "name": "Perses-D",
+    "id": 1019000888,
+    "damage_type": "Stasis",
+    "weapon_type": "Scout Rifle",
+    "category": "KineticWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/2d3e60f36d9355c7a3a99aaa972d934e.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/1019000888.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 839105230,
+                    "name": "Arrowhead Brake",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png"
+                    }
+                },
+                {
+                    "hash": 3142289711,
+                    "name": "Accurized Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png"
+                    }
+                },
+                {
+                    "hash": 247725512,
+                    "name": "Rapid Hit",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/56f26a865c24a6a10cb4177794eb7788.png"
+                    }
+                },
+                {
+                    "hash": 1546637391,
+                    "name": "Vorpal Weapon",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/6f82df3f2505654c266d2ee34c2a922d.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "3864024cc29016b13d72f2a6fdee666fcb81fe6f"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 839105230,
+                    "name": "Arrowhead Brake",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png"
+                    }
+                },
+                {
+                    "hash": 3142289711,
+                    "name": "Accurized Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png"
+                    }
+                },
+                {
+                    "hash": 247725512,
+                    "name": "Rapid Hit",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/56f26a865c24a6a10cb4177794eb7788.png"
+                    }
+                },
+                {
+                    "hash": 3038247973,
+                    "name": "Explosive Payload",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/d41dd918d42681c5b0ad00880274b22c.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "e49055669e54abdca573c3d85aea0ca30c4fb08b"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 3177308360,
+                    "name": "Steady Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png"
+                    }
+                },
+                {
+                    "hash": 2946784966,
+                    "name": "Tunnel Vision",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/dce6ca3c9276e5c10432cb99685ea62e.png"
+                    }
+                },
+                {
+                    "hash": 47981717,
+                    "name": "Opening Shot",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "1b5333feb90ce43ae5797472bd0dc65945bf9b5d"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 3177308360,
+                    "name": "Steady Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png"
+                    }
+                },
+                {
+                    "hash": 2946784966,
+                    "name": "Tunnel Vision",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/dce6ca3c9276e5c10432cb99685ea62e.png"
+                    }
+                },
+                {
+                    "hash": 1546637391,
+                    "name": "Vorpal Weapon",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/6f82df3f2505654c266d2ee34c2a922d.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "457550425fb0fb9aa378f47494543c20431afdcb"
+        }
+    ]
+}

@@ -10,7 +10,8 @@ logger = logging.getLogger()
 
 
 class Destiny2Weapon(Destiny2Inventory):
-    def __init__(self, hash_id: str):
+    def __init__(self, hash_id: str, profile: str = "default"):
+        self.profile = profile
         self.resp = self._get_resp_from_bungie(hash_id)
         self.perks = []
         self._load_exist_perks()
@@ -45,6 +46,7 @@ class Destiny2Weapon(Destiny2Inventory):
         return os.path.join(workspace(),
                             "data",
                             "wish_list",
+                            self.profile,
                             self.category,
                             self.weapon_type,
                             self.name.replace(' ', '_').lower(),

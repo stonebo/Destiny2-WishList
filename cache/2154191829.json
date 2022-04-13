@@ -1,0 +1,120 @@
+{
+    "Response": {
+        "displayProperties": {
+            "description": "Light and stable shaft material. \n  \u2022  Increases stability",
+            "name": "Carbon Arrow Shaft",
+            "icon": "/common/destiny2_content/icons/0dca9631d83ecaeb27bb39c7d2bf7679.png",
+            "iconSequences": [
+                {
+                    "frames": [
+                        "/common/destiny2_content/icons/0dca9631d83ecaeb27bb39c7d2bf7679.png"
+                    ]
+                },
+                {
+                    "frames": [
+                        "/common/destiny2_content/icons/f063140549bc31145b7272df4779ac39.png"
+                    ]
+                }
+            ],
+            "hasIcon": true
+        },
+        "tooltipNotifications": [],
+        "backgroundColor": {
+            "red": 0,
+            "green": 0,
+            "blue": 0,
+            "alpha": 0
+        },
+        "itemTypeDisplayName": "Arrow",
+        "flavorText": "",
+        "uiItemDisplayStyle": "",
+        "itemTypeAndTierDisplayName": "Common Arrow",
+        "displaySource": "",
+        "tooltipStyle": "build",
+        "action": {
+            "verbName": "Dismantle",
+            "verbDescription": "",
+            "isPositive": false,
+            "requiredCooldownSeconds": 0,
+            "requiredItems": [],
+            "progressionRewards": [],
+            "actionTypeLabel": "shard",
+            "rewardSheetHash": 0,
+            "rewardItemHash": 0,
+            "rewardSiteHash": 0,
+            "requiredCooldownHash": 0,
+            "deleteOnAction": true,
+            "consumeEntireStack": false,
+            "useOnAcquire": false
+        },
+        "inventory": {
+            "maxStackSize": 1,
+            "bucketTypeHash": 1469714392,
+            "recoveryBucketTypeHash": 215593132,
+            "tierTypeHash": 3340296461,
+            "isInstanceItem": false,
+            "nonTransferrableOriginal": false,
+            "tierTypeName": "Common",
+            "tierType": 2,
+            "expirationTooltip": "",
+            "expiredInActivityMessage": "",
+            "expiredInOrbitMessage": "",
+            "suppressExpirationWhenObjectivesComplete": true
+        },
+        "plug": {
+            "insertionRules": [],
+            "plugCategoryIdentifier": "arrows",
+            "plugCategoryHash": 1257608559,
+            "onActionRecreateSelf": false,
+            "actionRewardSiteHash": 0,
+            "actionRewardItemOverrideHash": 0,
+            "insertionMaterialRequirementHash": 0,
+            "previewItemOverrideHash": 0,
+            "enabledMaterialRequirementHash": 0,
+            "enabledRules": [],
+            "uiPlugLabel": "",
+            "plugStyle": 0,
+            "plugAvailability": 0,
+            "alternateUiPlugLabel": "",
+            "alternatePlugStyle": 0,
+            "isDummyPlug": false,
+            "applyStatsToSocketOwnerItem": false
+        },
+        "acquireRewardSiteHash": 0,
+        "acquireUnlockHash": 0,
+        "investmentStats": [
+            {
+                "statTypeHash": 155624089,
+                "value": 10,
+                "isConditionallyActive": false
+            }
+        ],
+        "perks": [],
+        "summaryItemHash": 3520001075,
+        "allowActions": true,
+        "doesPostmasterPullHaveSideEffects": false,
+        "nonTransferrable": true,
+        "itemCategoryHashes": [
+            59,
+            3360831066,
+            610365472
+        ],
+        "specialItemType": 0,
+        "itemType": 19,
+        "itemSubType": 0,
+        "classType": 3,
+        "breakerType": 0,
+        "equippable": false,
+        "defaultDamageType": 0,
+        "isWrapper": false,
+        "hash": 2154191829,
+        "index": 6045,
+        "redacted": false,
+        "blacklisted": false
+    },
+    "ErrorCode": 1,
+    "ThrottleSeconds": 0,
+    "ErrorStatus": "Success",
+    "Message": "Ok",
+    "MessageData": {}
+}

@@ -1,0 +1,158 @@
+{
+    "name": "Piece of Mind",
+    "id": 2097055732,
+    "damage_type": "Kinetic",
+    "weapon_type": "Pulse Rifle",
+    "category": "KineticWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/966f519a21a6339c26c1b4b05f2ed19d.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/2097055732.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/b0406992c49c84bdc5febad94048dc01.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 839105230,
+                    "name": "Arrowhead Brake",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png"
+                    }
+                },
+                {
+                    "hash": 1561002382,
+                    "name": "High-Caliber Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png"
+                    }
+                },
+                {
+                    "hash": 1428297954,
+                    "name": "Perpetual Motion",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4aaf4030ba98b68791a8135464f9a289.png"
+                    }
+                },
+                {
+                    "hash": 1546637391,
+                    "name": "Vorpal Weapon",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/6f82df3f2505654c266d2ee34c2a922d.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "4aa15a69b89b3595160761b4eb7353d37f71881e"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 839105230,
+                    "name": "Arrowhead Brake",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png"
+                    }
+                },
+                {
+                    "hash": 1561002382,
+                    "name": "High-Caliber Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png"
+                    }
+                },
+                {
+                    "hash": 1583705720,
+                    "name": "Stats for All",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/22a761b1ce7490a447e38d2b0e98b41f.png"
+                    }
+                },
+                {
+                    "hash": 1546637391,
+                    "name": "Vorpal Weapon",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/6f82df3f2505654c266d2ee34c2a922d.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "d3ec5c3923c5a2d38e31b93a9a2f9a66dbab2a03"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 3250034553,
+                    "name": "Hammer-Forged Rifling",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png"
+                    }
+                },
+                {
+                    "hash": 1885400500,
+                    "name": "Ricochet Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png"
+                    }
+                },
+                {
+                    "hash": 1428297954,
+                    "name": "Perpetual Motion",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4aaf4030ba98b68791a8135464f9a289.png"
+                    }
+                },
+                {
+                    "hash": 588594999,
+                    "name": "Moving Target",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "b7f14460f169bfc8a1bb625a09898e157f59b59f"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 3250034553,
+                    "name": "Hammer-Forged Rifling",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png"
+                    }
+                },
+                {
+                    "hash": 1885400500,
+                    "name": "Ricochet Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png"
+                    }
+                },
+                {
+                    "hash": 1570042021,
+                    "name": "Heating Up",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/ec51692c4a55ecf0b8a11065791bdc92.png"
+                    }
+                },
+                {
+                    "hash": 588594999,
+                    "name": "Moving Target",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "15ebfa8e10ee5554784f589bea611968f7805d0b"
+        }
+    ]
+}

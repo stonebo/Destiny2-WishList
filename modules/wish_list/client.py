@@ -8,7 +8,7 @@ logger = logging.getLogger()
 
 
 class WishList:
-    def __init__(self):
+    def __init__(self, profile: str = "default"):
         """
         self.wish_list = {
             "<item id>": [
@@ -16,7 +16,11 @@ class WishList:
                 ...
             ]
         }
+
+        Attributes:
+            profile: profile name
         """
+        self.profile = profile
         self.destiny2_api_client = Destiny2API()
         self.wish_list: Dict[List[WishListParser]] = {}
 
@@ -50,7 +54,7 @@ class WishList:
         for item_id in self.wish_list.keys():
             logger.info(f"Processing Item ID {item_id}")
             try:
-                item = Destiny2Weapon(item_id)
+                item = Destiny2Weapon(item_id, profile=self.profile)
             except Exception as e:
                 logger.warning(f"Get Destiny2 Definition Detail failed by Item ID {item_id}\n"
                                f"error: {e}")

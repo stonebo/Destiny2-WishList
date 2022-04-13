@@ -1,0 +1,158 @@
+{
+    "name": "Submission",
+    "id": 3886416794,
+    "damage_type": "Kinetic",
+    "weapon_type": "Submachine Gun",
+    "category": "KineticWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/13a8ca6a28104aa2881534b2ef315ea6.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/3886416794.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 4090651448,
+                    "name": "Corkscrew Rifling",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png"
+                    }
+                },
+                {
+                    "hash": 106909392,
+                    "name": "Tactical Mag",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png"
+                    }
+                },
+                {
+                    "hash": 1820235745,
+                    "name": "Subsistence",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/03d774525048e5eb5b6899b37d418920.png"
+                    }
+                },
+                {
+                    "hash": 4104185692,
+                    "name": "Frenzy",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/5f346569b07ad452768b16a255ebd168.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "93b128804ee169d30488bf57d39fbc04504e6e19"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 4090651448,
+                    "name": "Corkscrew Rifling",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png"
+                    }
+                },
+                {
+                    "hash": 106909392,
+                    "name": "Tactical Mag",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png"
+                    }
+                },
+                {
+                    "hash": 1820235745,
+                    "name": "Subsistence",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/03d774525048e5eb5b6899b37d418920.png"
+                    }
+                },
+                {
+                    "hash": 3523296417,
+                    "name": "Demolitionist",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/53ead908917c9156457c7c9dd453d649.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "f2f392ccd800bb5517b6a3ec005ec2807b6e5762"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 4090651448,
+                    "name": "Corkscrew Rifling",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png"
+                    }
+                },
+                {
+                    "hash": 106909392,
+                    "name": "Tactical Mag",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png"
+                    }
+                },
+                {
+                    "hash": 1428297954,
+                    "name": "Perpetual Motion",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4aaf4030ba98b68791a8135464f9a289.png"
+                    }
+                },
+                {
+                    "hash": 4104185692,
+                    "name": "Frenzy",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/5f346569b07ad452768b16a255ebd168.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "81c5566db22942b296db9798f355ac1739d9bbbe"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 4090651448,
+                    "name": "Corkscrew Rifling",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png"
+                    }
+                },
+                {
+                    "hash": 106909392,
+                    "name": "Tactical Mag",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png"
+                    }
+                },
+                {
+                    "hash": 1428297954,
+                    "name": "Perpetual Motion",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4aaf4030ba98b68791a8135464f9a289.png"
+                    }
+                },
+                {
+                    "hash": 3523296417,
+                    "name": "Demolitionist",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/53ead908917c9156457c7c9dd453d649.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "2e8c3fc2c609180bb9152878e91c65807332f8ca"
+        }
+    ]
+}

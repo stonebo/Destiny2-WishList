@@ -1,0 +1,122 @@
+{
+    "name": "Syncopation-53",
+    "id": 2856514843,
+    "damage_type": "Stasis",
+    "weapon_type": "Pulse Rifle",
+    "category": "KineticWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/5f10f3e4e574f8909f5399b1340864de.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/2856514843.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 839105230,
+                    "name": "Arrowhead Brake",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png"
+                    }
+                },
+                {
+                    "hash": 1968497646,
+                    "name": "Armor-Piercing Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png"
+                    }
+                },
+                {
+                    "hash": 2387244414,
+                    "name": "Zen Moment",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png"
+                    }
+                },
+                {
+                    "hash": 124408337,
+                    "name": "Headstone",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/42c5accd138e4daf1314db368670975a.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "6b5d2033e2c6b7e547cac44ae71c05d714713928"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 839105230,
+                    "name": "Arrowhead Brake",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png"
+                    }
+                },
+                {
+                    "hash": 1968497646,
+                    "name": "Armor-Piercing Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png"
+                    }
+                },
+                {
+                    "hash": 588594999,
+                    "name": "Moving Target",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png"
+                    }
+                },
+                {
+                    "hash": 124408337,
+                    "name": "Headstone",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/42c5accd138e4daf1314db368670975a.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "3b24d9a0b0955b4281e5b93caa13baff83a1a44e"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 1885400500,
+                    "name": "Ricochet Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png"
+                    }
+                },
+                {
+                    "hash": 588594999,
+                    "name": "Moving Target",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png"
+                    }
+                },
+                {
+                    "hash": 2846385770,
+                    "name": "Rangefinder",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "be1c5a59f852ac0a0bde2c735673acf198c2baa5"
+        }
+    ]
+}

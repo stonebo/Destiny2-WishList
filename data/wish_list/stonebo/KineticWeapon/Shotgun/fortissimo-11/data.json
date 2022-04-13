@@ -1,0 +1,266 @@
+{
+    "name": "Fortissimo-11",
+    "id": 2821430069,
+    "damage_type": "Kinetic",
+    "weapon_type": "Shotgun",
+    "category": "KineticWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/f81ff7fb91dda72d44de3068cdecfe52.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/2821430069.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 791862061,
+                    "name": "Assault Mag",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png"
+                    }
+                },
+                {
+                    "hash": 3523296417,
+                    "name": "Demolitionist",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/53ead908917c9156457c7c9dd453d649.png"
+                    }
+                },
+                {
+                    "hash": 11612903,
+                    "name": "Adrenaline Junkie",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/92111c4f872db8112e71a1bb4c684609.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "b5c2646f967363b5f6c1a9fdc749756b30376ebf"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 791862061,
+                    "name": "Assault Mag",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png"
+                    }
+                },
+                {
+                    "hash": 3523296417,
+                    "name": "Demolitionist",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/53ead908917c9156457c7c9dd453d649.png"
+                    }
+                },
+                {
+                    "hash": 1546637391,
+                    "name": "Vorpal Weapon",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/6f82df3f2505654c266d2ee34c2a922d.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "6c07aef14b1120e8599cb075883fddb8de8270c0"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 791862061,
+                    "name": "Assault Mag",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png"
+                    }
+                },
+                {
+                    "hash": 2779035018,
+                    "name": "Feeding Frenzy",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/5838b4ef410895011edfed3eaf11641f.png"
+                    }
+                },
+                {
+                    "hash": 1546637391,
+                    "name": "Vorpal Weapon",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/6f82df3f2505654c266d2ee34c2a922d.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "a2d43e3a4c5de9899ef8033b29138ed621766487"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 3250034553,
+                    "name": "Hammer-Forged Rifling",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png"
+                    }
+                },
+                {
+                    "hash": 791862061,
+                    "name": "Assault Mag",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png"
+                    }
+                },
+                {
+                    "hash": 1428297954,
+                    "name": "Perpetual Motion",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4aaf4030ba98b68791a8135464f9a289.png"
+                    }
+                },
+                {
+                    "hash": 47981717,
+                    "name": "Opening Shot",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "a0672327c69cd3050c5aa550c2799e3090ab6505"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 3250034553,
+                    "name": "Hammer-Forged Rifling",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png"
+                    }
+                },
+                {
+                    "hash": 791862061,
+                    "name": "Assault Mag",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png"
+                    }
+                },
+                {
+                    "hash": 1428297954,
+                    "name": "Perpetual Motion",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4aaf4030ba98b68791a8135464f9a289.png"
+                    }
+                },
+                {
+                    "hash": 1546637391,
+                    "name": "Vorpal Weapon",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/6f82df3f2505654c266d2ee34c2a922d.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "588b33951532ad1981778579ff1b85ace1d8fb0c"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 3177308360,
+                    "name": "Steady Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png"
+                    }
+                },
+                {
+                    "hash": 4071163871,
+                    "name": "Threat Detector",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png"
+                    }
+                },
+                {
+                    "hash": 1546637391,
+                    "name": "Vorpal Weapon",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/6f82df3f2505654c266d2ee34c2a922d.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "07a83e362e0a7e20532d477a2d956dd1e9caf26b"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 3177308360,
+                    "name": "Steady Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png"
+                    }
+                },
+                {
+                    "hash": 4071163871,
+                    "name": "Threat Detector",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png"
+                    }
+                },
+                {
+                    "hash": 47981717,
+                    "name": "Opening Shot",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "19da98ddf768e582a42104ed73a1a8f43716e0f0"
+        }
+    ]
+}
