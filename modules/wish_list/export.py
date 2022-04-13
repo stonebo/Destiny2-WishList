@@ -1,9 +1,9 @@
+import copy
 import os
 import json as jsonlib
 from abc import ABC, abstractmethod
-from typing import Any, Optional
-import openpyxl
-from openpyxl.drawing.image import Image
+from IPython.core.display import HTML
+import pandas as pd
 from ..utils import workspace
 
 
@@ -15,8 +15,8 @@ class Export(ABC):
             output (str): Output File Path
         """
         self.file_ext_check(output)
-        self.data = self.load(output)
         self.output = output
+        self.data = None
 
     def list_exist_dirs(self):
         perk_dir_list = []
@@ -32,12 +32,15 @@ class Export(ABC):
            perk_icon_file = None
         return perk_icon_file
 
-    @abstractmethod
-    def file_ext_check(self, output: str):
-        pass
+    def get_perk_icon_link(self, perk_id: str) -> str:
+        perk_dir = os.path.join(workspace(), "data", "perks")
+        perk_json = os.path.join(perk_dir, f"{perk_id}.json")
+        with open(perk_json, "r") as fp:
+            perk_json = jsonlib.load(fp)
+        return perk_json['icons']['icon']
 
     @abstractmethod
-    def load(self, output: str) -> Any:
+    def file_ext_check(self, output: str):
         pass
 
     @abstractmethod
@@ -49,56 +52,79 @@ class Export(ABC):
         pass
 
 
-class ExcelExport(Export):
+class HTMLExport(Export):
     def file_ext_check(self, output: str):
         _ext = os.path.splitext(output)[-1]
-        if _ext not in [".xlsx", ".xls"]:
+        if _ext not in [".html"]:
             raise TypeError(f"Output File Ext Invalid, {_ext}\n"
-                            f"Expect Ext is one of [xlsx|xls]")
-
-    def load(self, output: str) -> openpyxl.Workbook:
-        if os.path.isfile(output):
-            wb = openpyxl.load_workbook(output)
-        else:
-            wb = openpyxl.Workbook()
-        return wb
+                            f"Expect Ext is one of [html]")
 
     def process(self):
-        ws = self.data.active
-        # ws = openpyxl.Workbook().active
-        index = 1
+        wish_list = []
         for element in self.list_exist_dirs():
-            icon = os.path.join(element, "icons", "icon.jpg")
-            watermark = os.path.join(element, "icons", "watermark.jpg")
             data_file = os.path.join(element, "data.json")
             with open(data_file, "r") as fp:
                 json_data = jsonlib.load(fp)
+            item = [
+                json_data['name'],
+                json_data['icons']['water_mark'],
+                json_data['icons']['icon'],
+                json_data['category'],
+                json_data['weapon_type'],
+                json_data['damage_type'],
+            ]
+            for perk_data in json_data['perks']:
+                _item = copy.deepcopy(item)
+                for perk in perk_data['perks']:
+                    _item.append(self.get_perk_icon_link(perk['hash']))
+                wish_list.append(_item)
+        self.data = pd.DataFrame(wish_list,
+                                 columns=[
+                                     "name",
+                                     "season",
+                                     "icon",
+                                     "category",
+                                     "type",
+                                     "damage type",
+                                     "wish perk #1",
+                                     "wish perk #2",
+                                     "wish perk #3",
+                                     "wish perk #4",
+                                     "wish perk #5",
+                                 ])
 
-            wish_list = json_data['perks']
-            for index_1, wish_perk in enumerate(wish_list):
-                _index = index + index_1
-                row = [
-                    '',  # water marks in A
-                    '',  # icon image in B
-                    json_data['category'],
-                    json_data['weapon_type'],
-                    json_data['damage_type'],
-                    json_data['name'],
-                ]
-                ws.append(row)
-                watermark_img = Image(watermark)
-                icon_img = Image(icon)
-                ws.add_image(watermark_img, f"A{_index}")
-                ws.add_image(icon_img, f"B{_index}")
+    def path_to_image_html(self, path):
+        if path == "None":
+            return None
+        else:
+            return '<img src="' + path + '" width="60" >'
 
-                current_row = ws.rows[_index]
-                for perk in wish_perk['perks']:
-                    perk_icon = self.get_perk_icon(perk['hash'])
-                    if perk_icon is None:
-                        current_row
-                    perk_img = Image(perk_icon)
+    def _gen_html(self):
+        html_string = """
+        <html>
+            <head><title>HTML Pandas Dataframe with CSS</title></head>
+            <link rel="stylesheet" type="text/css" href="style.css"/>
+            <body>
+                {table}
+            </body>
+        </html>.
+        """
+        html_data = self.data.to_html(escape=False,
+                                      formatters={
+                                          "icon": self.path_to_image_html,
+                                          "season": self.path_to_image_html,
+                                          "wish perk #1": self.path_to_image_html,
+                                          "wish perk #2": self.path_to_image_html,
+                                          "wish perk #3": self.path_to_image_html,
+                                          "wish perk #4": self.path_to_image_html,
+                                          "wish perk #5": self.path_to_image_html,
+                                      },
+                                      classes="mystyle"
+                                      )
+        return html_string.format(table=html_data)
 
     def save(self):
-        pass
+        with open(self.output, "w", encoding="utf-8") as fp:
+            fp.write(self._gen_html())
 
 
