@@ -1,0 +1,86 @@
+{
+    "name": "Fugue-55",
+    "id": 2233545123,
+    "damage_type": "Void",
+    "weapon_type": "Sniper Rifle",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/7458f40bf4f2264f8de19cc0f807fc51.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/2233545123.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 3142289711,
+                    "name": "Accurized Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png"
+                    }
+                },
+                {
+                    "hash": 1354429876,
+                    "name": "Fourth Time's the Charm",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/8134a0712e5b3120d4153e00d4e3b4b9.png"
+                    }
+                },
+                {
+                    "hash": 1546637391,
+                    "name": "Vorpal Weapon",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/6f82df3f2505654c266d2ee34c2a922d.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "80851445a7bfb5c339ac05b349993a0e7118a47b"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 3142289711,
+                    "name": "Accurized Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png"
+                    }
+                },
+                {
+                    "hash": 2866798147,
+                    "name": "No Distractions",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/a5adc38b39f910897be1548c7dd0c270.png"
+                    }
+                },
+                {
+                    "hash": 957782887,
+                    "name": "Snapshot Sights",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "06cd3a38c03efb4c50c36e270cf2ae4b3e3282a9"
+        }
+    ]
+}

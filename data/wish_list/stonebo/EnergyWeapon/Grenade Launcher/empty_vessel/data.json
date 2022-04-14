@@ -1,0 +1,86 @@
+{
+    "name": "Empty Vessel",
+    "id": 4255586669,
+    "damage_type": "Thermal/Solar",
+    "weapon_type": "Grenade Launcher",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/ad6f75a7709744c90de2f300ee8bcf48.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/4255586669.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/a9faab035e2f59f802e99641a3aaab9e.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1478423395,
+                    "name": "Volatile Launch",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/402765b86ff7b1d97078ac43d5ca39ad.png"
+                    }
+                },
+                {
+                    "hash": 3301904089,
+                    "name": "Spike Grenades",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c733f59957e33024af80e648729321ad.png"
+                    }
+                },
+                {
+                    "hash": 706527188,
+                    "name": "Quickdraw",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png"
+                    }
+                },
+                {
+                    "hash": 1546637391,
+                    "name": "Vorpal Weapon",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/6f82df3f2505654c266d2ee34c2a922d.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "928287bc761ad7d12a790b28ed9adcb1c5cc2a7f"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 3525010810,
+                    "name": "Quick Launch",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/11664d61e115d9a59bd969b87081f1a6.png"
+                    }
+                },
+                {
+                    "hash": 3032599245,
+                    "name": "Blinding Grenades",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c0dde588e1a32760621859e496d2e657.png"
+                    }
+                },
+                {
+                    "hash": 706527188,
+                    "name": "Quickdraw",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png"
+                    }
+                },
+                {
+                    "hash": 1546637391,
+                    "name": "Vorpal Weapon",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/6f82df3f2505654c266d2ee34c2a922d.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "cfac78c3debb16536c97e4e2a5223809661e5c0d"
+        }
+    ]
+}

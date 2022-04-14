@@ -1,0 +1,146 @@
+{
+    "Response": {
+        "displayProperties": {
+            "description": "Sword final blows grant increased charge rate, efficiency, and defense until this weapon is stowed.",
+            "name": "Duelist's Trance",
+            "icon": "/common/destiny2_content/icons/690097ae793a29efe2409dda22284049.png",
+            "iconSequences": [
+                {
+                    "frames": [
+                        "/common/destiny2_content/icons/690097ae793a29efe2409dda22284049.png"
+                    ]
+                },
+                {
+                    "frames": [
+                        "/common/destiny2_content/icons/3ea4b9ee4c6ff81db9a8950a40e3260f.png"
+                    ]
+                }
+            ],
+            "hasIcon": true
+        },
+        "tooltipNotifications": [],
+        "backgroundColor": {
+            "red": 0,
+            "green": 0,
+            "blue": 0,
+            "alpha": 0
+        },
+        "itemTypeDisplayName": "Trait",
+        "flavorText": "",
+        "uiItemDisplayStyle": "",
+        "itemTypeAndTierDisplayName": "Common Trait",
+        "displaySource": "",
+        "tooltipStyle": "build",
+        "action": {
+            "verbName": "Dismantle",
+            "verbDescription": "",
+            "isPositive": false,
+            "requiredCooldownSeconds": 0,
+            "requiredItems": [],
+            "progressionRewards": [],
+            "actionTypeLabel": "shard",
+            "rewardSheetHash": 0,
+            "rewardItemHash": 0,
+            "rewardSiteHash": 0,
+            "requiredCooldownHash": 0,
+            "deleteOnAction": true,
+            "consumeEntireStack": false,
+            "useOnAcquire": false
+        },
+        "inventory": {
+            "maxStackSize": 1,
+            "bucketTypeHash": 1469714392,
+            "recoveryBucketTypeHash": 215593132,
+            "tierTypeHash": 3340296461,
+            "isInstanceItem": false,
+            "nonTransferrableOriginal": false,
+            "tierTypeName": "Common",
+            "tierType": 2,
+            "expirationTooltip": "",
+            "expiredInActivityMessage": "",
+            "expiredInOrbitMessage": "",
+            "suppressExpirationWhenObjectivesComplete": true
+        },
+        "objectives": {
+            "objectiveHashes": [
+                2215515945
+            ],
+            "displayActivityHashes": [
+                2166136261
+            ],
+            "requireFullObjectiveCompletion": true,
+            "questlineItemHash": 0,
+            "narrative": "",
+            "objectiveVerbName": "",
+            "questTypeIdentifier": "",
+            "questTypeHash": 2166136261,
+            "completionRewardSiteHash": 0,
+            "nextQuestStepRewardSiteHash": 0,
+            "timestampUnlockValueHash": 0,
+            "isGlobalObjectiveItem": false,
+            "useOnObjectiveCompletion": false,
+            "inhibitCompletionUnlockValueHash": 0,
+            "perObjectiveDisplayProperties": [
+                {
+                    "displayOnItemPreviewScreen": false
+                }
+            ],
+            "displayAsStatTracker": false
+        },
+        "plug": {
+            "insertionRules": [],
+            "plugCategoryIdentifier": "frames",
+            "plugCategoryHash": 7906839,
+            "onActionRecreateSelf": false,
+            "actionRewardSiteHash": 0,
+            "actionRewardItemOverrideHash": 0,
+            "insertionMaterialRequirementHash": 0,
+            "previewItemOverrideHash": 0,
+            "enabledMaterialRequirementHash": 0,
+            "enabledRules": [],
+            "uiPlugLabel": "",
+            "plugStyle": 0,
+            "plugAvailability": 0,
+            "alternateUiPlugLabel": "",
+            "alternatePlugStyle": 0,
+            "isDummyPlug": false,
+            "applyStatsToSocketOwnerItem": false
+        },
+        "acquireRewardSiteHash": 0,
+        "acquireUnlockHash": 0,
+        "investmentStats": [],
+        "perks": [
+            {
+                "requirementDisplayString": "",
+                "perkHash": 291674571,
+                "perkVisibility": 0
+            }
+        ],
+        "summaryItemHash": 3520001075,
+        "allowActions": true,
+        "doesPostmasterPullHaveSideEffects": false,
+        "nonTransferrable": true,
+        "itemCategoryHashes": [
+            59,
+            3708671066,
+            610365472
+        ],
+        "specialItemType": 0,
+        "itemType": 19,
+        "itemSubType": 0,
+        "classType": 3,
+        "breakerType": 0,
+        "equippable": false,
+        "defaultDamageType": 0,
+        "isWrapper": false,
+        "hash": 3705817207,
+        "index": 15007,
+        "redacted": false,
+        "blacklisted": false
+    },
+    "ErrorCode": 1,
+    "ThrottleSeconds": 0,
+    "ErrorStatus": "Success",
+    "Message": "Ok",
+    "MessageData": {}
+}

@@ -1,0 +1,86 @@
+{
+    "name": "Punching Out",
+    "id": 378498222,
+    "damage_type": "Thermal/Solar",
+    "weapon_type": "Sidearm",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/bed67895b7f9a05d40ae949a49ec02f1.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/378498222.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/4368a3e344977c5551407845ede830c2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 4090651448,
+                    "name": "Corkscrew Rifling",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png"
+                    }
+                },
+                {
+                    "hash": 1885400500,
+                    "name": "Ricochet Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png"
+                    }
+                },
+                {
+                    "hash": 2846385770,
+                    "name": "Rangefinder",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png"
+                    }
+                },
+                {
+                    "hash": 1015611457,
+                    "name": "Kill Clip",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "04b95baf6d1afe08336d4c30cc3d3c3a4678d73c"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 4090651448,
+                    "name": "Corkscrew Rifling",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png"
+                    }
+                },
+                {
+                    "hash": 1885400500,
+                    "name": "Ricochet Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png"
+                    }
+                },
+                {
+                    "hash": 588594999,
+                    "name": "Moving Target",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png"
+                    }
+                },
+                {
+                    "hash": 1015611457,
+                    "name": "Kill Clip",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "22d34d2176f4ac631a6bba07967fc2bb1b701af6"
+        }
+    ]
+}

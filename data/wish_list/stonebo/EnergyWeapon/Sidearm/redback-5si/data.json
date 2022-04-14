@@ -1,0 +1,86 @@
+{
+    "name": "Redback-5si",
+    "id": 1687353095,
+    "damage_type": "Thermal/Solar",
+    "weapon_type": "Sidearm",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/03d4bdeddf87f992e6487e1058ae58b5.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/1687353095.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 3250034553,
+                    "name": "Hammer-Forged Rifling",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png"
+                    }
+                },
+                {
+                    "hash": 3142289711,
+                    "name": "Accurized Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png"
+                    }
+                },
+                {
+                    "hash": 1820235745,
+                    "name": "Subsistence",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/03d774525048e5eb5b6899b37d418920.png"
+                    }
+                },
+                {
+                    "hash": 3425386926,
+                    "name": "Rampage",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "6fc12a4c09d610ba8a9c148a5bd5be64da4c4281"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 3250034553,
+                    "name": "Hammer-Forged Rifling",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png"
+                    }
+                },
+                {
+                    "hash": 3142289711,
+                    "name": "Accurized Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png"
+                    }
+                },
+                {
+                    "hash": 1820235745,
+                    "name": "Subsistence",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/03d774525048e5eb5b6899b37d418920.png"
+                    }
+                },
+                {
+                    "hash": 1546637391,
+                    "name": "Vorpal Weapon",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/6f82df3f2505654c266d2ee34c2a922d.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "cb051fe32e690d45f4bb0623b89806c579c8857e"
+        }
+    ]
+}

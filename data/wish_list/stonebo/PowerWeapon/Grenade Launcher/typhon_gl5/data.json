@@ -1,0 +1,86 @@
+{
+    "name": "Typhon GL5",
+    "id": 3568377122,
+    "damage_type": "Stasis",
+    "weapon_type": "Grenade Launcher",
+    "category": "PowerWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/30a24f2ad4def56db85af9c0d2329e1a.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/3568377122.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1478423395,
+                    "name": "Volatile Launch",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/402765b86ff7b1d97078ac43d5ca39ad.png"
+                    }
+                },
+                {
+                    "hash": 2822142346,
+                    "name": "High-Velocity Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/d541a7c35981cb9caceaf3736097adb9.png"
+                    }
+                },
+                {
+                    "hash": 951095735,
+                    "name": "Impulse Amplifier",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4e93f5797efdcddc3dcfadf2831f3095.png"
+                    }
+                },
+                {
+                    "hash": 3194351027,
+                    "name": "Explosive Light",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7381a042ca97533623f6dff66d8f0347.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "cc8b5fc565506989d96270ba8ce70f300b74860a"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1478423395,
+                    "name": "Volatile Launch",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/402765b86ff7b1d97078ac43d5ca39ad.png"
+                    }
+                },
+                {
+                    "hash": 2822142346,
+                    "name": "High-Velocity Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/d541a7c35981cb9caceaf3736097adb9.png"
+                    }
+                },
+                {
+                    "hash": 3523296417,
+                    "name": "Demolitionist",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/53ead908917c9156457c7c9dd453d649.png"
+                    }
+                },
+                {
+                    "hash": 3194351027,
+                    "name": "Explosive Light",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7381a042ca97533623f6dff66d8f0347.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "e8609dde3b8b9bfff45e28e9212a056cb9995ab1"
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "Response": {
+        "displayProperties": {
+            "description": "When the battery is full, your next burst deals additional damage and causes enemies to explode on death.",
+            "name": "Reservoir Burst",
+            "icon": "/common/destiny2_content/icons/68b82437cba6eeb5a215c2c8240861a5.png",
+            "iconSequences": [
+                {
+                    "frames": [
+                        "/common/destiny2_content/icons/68b82437cba6eeb5a215c2c8240861a5.png"
+                    ]
+                },
+                {
+                    "frames": [
+                        "/common/destiny2_content/icons/f2a5eda613572c9bb1f7324fc3abca9f.png"
+                    ]
+                }
+            ],
+            "hasIcon": true
+        },
+        "tooltipNotifications": [],
+        "backgroundColor": {
+            "red": 0,
+            "green": 0,
+            "blue": 0,
+            "alpha": 0
+        },
+        "itemTypeDisplayName": "Trait",
+        "flavorText": "",
+        "uiItemDisplayStyle": "",
+        "itemTypeAndTierDisplayName": "Common Trait",
+        "displaySource": "",
+        "tooltipStyle": "build",
+        "action": {
+            "verbName": "Dismantle",
+            "verbDescription": "",
+            "isPositive": false,
+            "requiredCooldownSeconds": 0,
+            "requiredItems": [],
+            "progressionRewards": [],
+            "actionTypeLabel": "shard",
+            "rewardSheetHash": 0,
+            "rewardItemHash": 0,
+            "rewardSiteHash": 0,
+            "requiredCooldownHash": 0,
+            "deleteOnAction": true,
+            "consumeEntireStack": false,
+            "useOnAcquire": false
+        },
+        "inventory": {
+            "maxStackSize": 1,
+            "bucketTypeHash": 1469714392,
+            "recoveryBucketTypeHash": 215593132,
+            "tierTypeHash": 3340296461,
+            "isInstanceItem": false,
+            "nonTransferrableOriginal": false,
+            "tierTypeName": "Common",
+            "tierType": 2,
+            "expirationTooltip": "",
+            "expiredInActivityMessage": "",
+            "expiredInOrbitMessage": "",
+            "suppressExpirationWhenObjectivesComplete": true
+        },
+        "objectives": {
+            "objectiveHashes": [
+                2215515944
+            ],
+            "displayActivityHashes": [
+                2166136261
+            ],
+            "requireFullObjectiveCompletion": false,
+            "questlineItemHash": 0,
+            "narrative": "",
+            "objectiveVerbName": "",
+            "questTypeIdentifier": "",
+            "questTypeHash": 2166136261,
+            "completionRewardSiteHash": 0,
+            "nextQuestStepRewardSiteHash": 0,
+            "timestampUnlockValueHash": 0,
+            "isGlobalObjectiveItem": false,
+            "useOnObjectiveCompletion": false,
+            "inhibitCompletionUnlockValueHash": 0,
+            "perObjectiveDisplayProperties": [
+                {
+                    "displayOnItemPreviewScreen": false
+                }
+            ],
+            "displayAsStatTracker": false
+        },
+        "plug": {
+            "insertionRules": [],
+            "plugCategoryIdentifier": "frames",
+            "plugCategoryHash": 7906839,
+            "onActionRecreateSelf": false,
+            "actionRewardSiteHash": 0,
+            "actionRewardItemOverrideHash": 0,
+            "insertionMaterialRequirementHash": 0,
+            "previewItemOverrideHash": 0,
+            "enabledMaterialRequirementHash": 0,
+            "enabledRules": [],
+            "uiPlugLabel": "",
+            "plugStyle": 0,
+            "plugAvailability": 0,
+            "alternateUiPlugLabel": "",
+            "alternatePlugStyle": 0,
+            "isDummyPlug": false,
+            "applyStatsToSocketOwnerItem": false
+        },
+        "acquireRewardSiteHash": 0,
+        "acquireUnlockHash": 0,
+        "investmentStats": [
+            {
+                "statTypeHash": 3871231066,
+                "value": 30,
+                "isConditionallyActive": false
+            }
+        ],
+        "perks": [
+            {
+                "requirementDisplayString": "",
+                "perkHash": 4001866491,
+                "perkVisibility": 0
+            },
+            {
+                "requirementDisplayString": "",
+                "perkHash": 1962941874,
+                "perkVisibility": 0
+            }
+        ],
+        "summaryItemHash": 3520001075,
+        "allowActions": true,
+        "doesPostmasterPullHaveSideEffects": false,
+        "nonTransferrable": true,
+        "itemCategoryHashes": [
+            59,
+            3708671066,
+            610365472
+        ],
+        "specialItemType": 0,
+        "itemType": 19,
+        "itemSubType": 0,
+        "classType": 3,
+        "breakerType": 0,
+        "equippable": false,
+        "defaultDamageType": 0,
+        "isWrapper": false,
+        "hash": 1427256713,
+        "index": 6075,
+        "redacted": false,
+        "blacklisted": false
+    },
+    "ErrorCode": 1,
+    "ThrottleSeconds": 0,
+    "ErrorStatus": "Success",
+    "Message": "Ok",
+    "MessageData": {}
+}

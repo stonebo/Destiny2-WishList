@@ -1,0 +1,86 @@
+{
+    "name": "Ogma PR6",
+    "id": 2342054803,
+    "damage_type": "Thermal/Solar",
+    "weapon_type": "Pulse Rifle",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/cb9df9726901ccbe08259308c62890e9.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/2342054803.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 4090651448,
+                    "name": "Corkscrew Rifling",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png"
+                    }
+                },
+                {
+                    "hash": 3142289711,
+                    "name": "Accurized Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png"
+                    }
+                },
+                {
+                    "hash": 3523296417,
+                    "name": "Demolitionist",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/53ead908917c9156457c7c9dd453d649.png"
+                    }
+                },
+                {
+                    "hash": 11612903,
+                    "name": "Adrenaline Junkie",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/92111c4f872db8112e71a1bb4c684609.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "8d27fa43926681286af923c4b32078804cf33ebb"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 4090651448,
+                    "name": "Corkscrew Rifling",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png"
+                    }
+                },
+                {
+                    "hash": 3142289711,
+                    "name": "Accurized Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png"
+                    }
+                },
+                {
+                    "hash": 3523296417,
+                    "name": "Demolitionist",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/53ead908917c9156457c7c9dd453d649.png"
+                    }
+                },
+                {
+                    "hash": 2848615171,
+                    "name": "Dragonfly",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/8fe8293ba02002f69bfa052a0c44223f.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "4cb1d5ef3bde1ee4ba753400df01829cf55f7fd3"
+        }
+    ]
+}

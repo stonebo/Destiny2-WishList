@@ -1,0 +1,122 @@
+{
+    "name": "Retraced Path",
+    "id": 548958835,
+    "damage_type": "Thermal/Solar",
+    "weapon_type": "Trace Rifle",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/c305ccb3c835b8fa4b198d1699296156.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/548958835.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/dd4dd93c5606998595d9e5a06d5bfc9c.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 732557052,
+                    "name": "Tactical Battery",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/214f4b73b1d77b9a2b7a4a44fe563af0.png"
+                    }
+                },
+                {
+                    "hash": 1820235745,
+                    "name": "Subsistence",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/03d774525048e5eb5b6899b37d418920.png"
+                    }
+                },
+                {
+                    "hash": 4104185692,
+                    "name": "Frenzy",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/5f346569b07ad452768b16a255ebd168.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "d1e310f59a7565b17790ee046ea6bc726335e956"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 732557052,
+                    "name": "Tactical Battery",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/214f4b73b1d77b9a2b7a4a44fe563af0.png"
+                    }
+                },
+                {
+                    "hash": 1820235745,
+                    "name": "Subsistence",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/03d774525048e5eb5b6899b37d418920.png"
+                    }
+                },
+                {
+                    "hash": 4049631843,
+                    "name": "One for All",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/b7106e2123d59e57a1547bc006892ebc.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "08e9fd7b4f61725392c3622e791524c8a168842a"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 732557052,
+                    "name": "Tactical Battery",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/214f4b73b1d77b9a2b7a4a44fe563af0.png"
+                    }
+                },
+                {
+                    "hash": 2779035018,
+                    "name": "Feeding Frenzy",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/5838b4ef410895011edfed3eaf11641f.png"
+                    }
+                },
+                {
+                    "hash": 4104185692,
+                    "name": "Frenzy",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/5f346569b07ad452768b16a255ebd168.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "729efd94f190411590512f58bc334461c1df28f0"
+        }
+    ]
+}

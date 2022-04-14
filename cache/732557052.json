@@ -1,0 +1,130 @@
+{
+    "Response": {
+        "displayProperties": {
+            "description": "This weapon has multiple small improvements.\n  \u2022  Slightly increases stability\n  \u2022  Increases reload speed\n  \u2022  Slightly increases range",
+            "name": "Tactical Battery",
+            "icon": "/common/destiny2_content/icons/214f4b73b1d77b9a2b7a4a44fe563af0.png",
+            "iconSequences": [
+                {
+                    "frames": [
+                        "/common/destiny2_content/icons/214f4b73b1d77b9a2b7a4a44fe563af0.png"
+                    ]
+                },
+                {
+                    "frames": [
+                        "/common/destiny2_content/icons/adee031a511b695e21760eaf35fa5a33.png"
+                    ]
+                }
+            ],
+            "hasIcon": true
+        },
+        "tooltipNotifications": [],
+        "backgroundColor": {
+            "red": 0,
+            "green": 0,
+            "blue": 0,
+            "alpha": 0
+        },
+        "itemTypeDisplayName": "Battery",
+        "flavorText": "",
+        "uiItemDisplayStyle": "",
+        "itemTypeAndTierDisplayName": "Legendary Battery",
+        "displaySource": "",
+        "tooltipStyle": "build",
+        "action": {
+            "verbName": "Dismantle",
+            "verbDescription": "",
+            "isPositive": false,
+            "requiredCooldownSeconds": 0,
+            "requiredItems": [],
+            "progressionRewards": [],
+            "actionTypeLabel": "shard",
+            "rewardSheetHash": 0,
+            "rewardItemHash": 0,
+            "rewardSiteHash": 0,
+            "requiredCooldownHash": 0,
+            "deleteOnAction": true,
+            "consumeEntireStack": false,
+            "useOnAcquire": false
+        },
+        "inventory": {
+            "maxStackSize": 1,
+            "bucketTypeHash": 1469714392,
+            "recoveryBucketTypeHash": 215593132,
+            "tierTypeHash": 4008398120,
+            "isInstanceItem": false,
+            "nonTransferrableOriginal": false,
+            "tierTypeName": "Legendary",
+            "tierType": 5,
+            "expirationTooltip": "",
+            "expiredInActivityMessage": "",
+            "expiredInOrbitMessage": "",
+            "suppressExpirationWhenObjectivesComplete": true
+        },
+        "plug": {
+            "insertionRules": [],
+            "plugCategoryIdentifier": "batteries",
+            "plugCategoryHash": 1757026848,
+            "onActionRecreateSelf": false,
+            "actionRewardSiteHash": 0,
+            "actionRewardItemOverrideHash": 0,
+            "insertionMaterialRequirementHash": 0,
+            "previewItemOverrideHash": 0,
+            "enabledMaterialRequirementHash": 0,
+            "enabledRules": [],
+            "uiPlugLabel": "",
+            "plugStyle": 0,
+            "plugAvailability": 0,
+            "alternateUiPlugLabel": "",
+            "alternatePlugStyle": 0,
+            "isDummyPlug": false,
+            "applyStatsToSocketOwnerItem": false
+        },
+        "acquireRewardSiteHash": 0,
+        "acquireUnlockHash": 0,
+        "investmentStats": [
+            {
+                "statTypeHash": 1240592695,
+                "value": 5,
+                "isConditionallyActive": false
+            },
+            {
+                "statTypeHash": 4188031367,
+                "value": 10,
+                "isConditionallyActive": false
+            },
+            {
+                "statTypeHash": 155624089,
+                "value": 5,
+                "isConditionallyActive": false
+            }
+        ],
+        "perks": [],
+        "summaryItemHash": 3520001075,
+        "allowActions": true,
+        "doesPostmasterPullHaveSideEffects": false,
+        "nonTransferrable": true,
+        "itemCategoryHashes": [
+            1334054322,
+            610365472,
+            59
+        ],
+        "specialItemType": 0,
+        "itemType": 19,
+        "itemSubType": 0,
+        "classType": 3,
+        "breakerType": 0,
+        "equippable": false,
+        "defaultDamageType": 0,
+        "isWrapper": false,
+        "hash": 732557052,
+        "index": 3290,
+        "redacted": false,
+        "blacklisted": false
+    },
+    "ErrorCode": 1,
+    "ThrottleSeconds": 0,
+    "ErrorStatus": "Success",
+    "Message": "Ok",
+    "MessageData": {}
+}

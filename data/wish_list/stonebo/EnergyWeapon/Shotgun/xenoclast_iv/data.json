@@ -1,0 +1,122 @@
+{
+    "name": "Xenoclast IV",
+    "id": 2891672170,
+    "damage_type": "Arc",
+    "weapon_type": "Shotgun",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/74fd60316d24cd2fbb81d0df4009b1bc.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/2891672170.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/1f702463c5e0c4e25c9f00a730dbc6ac.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1482024992,
+                    "name": "Smallbore",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png"
+                    }
+                },
+                {
+                    "hash": 791862061,
+                    "name": "Assault Mag",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png"
+                    }
+                },
+                {
+                    "hash": 1631667848,
+                    "name": "Grave Robber",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png"
+                    }
+                },
+                {
+                    "hash": 2679249093,
+                    "name": "One-Two Punch",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/9e8b9d285c5064ad85a0b7dbcb911f36.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "f582213861cdb1646a35c9f2005fe919b6b82bde"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1482024992,
+                    "name": "Smallbore",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png"
+                    }
+                },
+                {
+                    "hash": 791862061,
+                    "name": "Assault Mag",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png"
+                    }
+                },
+                {
+                    "hash": 3161816588,
+                    "name": "Slideshot",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/fa7ba2abcd8effd143e287668d7c865b.png"
+                    }
+                },
+                {
+                    "hash": 2679249093,
+                    "name": "One-Two Punch",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/9e8b9d285c5064ad85a0b7dbcb911f36.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "8220d656f5a09d7b768530eccb3b9808b578da7b"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1482024992,
+                    "name": "Smallbore",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png"
+                    }
+                },
+                {
+                    "hash": 791862061,
+                    "name": "Assault Mag",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png"
+                    }
+                },
+                {
+                    "hash": 3161816588,
+                    "name": "Slideshot",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/fa7ba2abcd8effd143e287668d7c865b.png"
+                    }
+                },
+                {
+                    "hash": 1546637391,
+                    "name": "Vorpal Weapon",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/6f82df3f2505654c266d2ee34c2a922d.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "90eccfef2872b8c364c492246204eb847415c22d"
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "name": "Hero of Ages",
+    "id": 2139640995,
+    "damage_type": "Arc",
+    "weapon_type": "Sword",
+    "category": "PowerWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/17253c67139761ea3fe95b345d61dc17.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/2139640995.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/dd4dd93c5606998595d9e5a06d5bfc9c.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 3666208348,
+                    "name": "Jagged Edge",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/464c494e9ac760699272764a9929eff0.png"
+                    }
+                },
+                {
+                    "hash": 269888150,
+                    "name": "Swordmaster's Guard",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7c04ae7d23ee842c2b58c3e9c0f5855f.png"
+                    }
+                },
+                {
+                    "hash": 3523296417,
+                    "name": "Demolitionist",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/53ead908917c9156457c7c9dd453d649.png"
+                    }
+                },
+                {
+                    "hash": 2396489472,
+                    "name": "Chain Reaction",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/3826c3af844cc97534cf1a64cec2f6b2.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "e783ac8916365add5b1e38fc6b1caf07237cdb01"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 3666208348,
+                    "name": "Jagged Edge",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/464c494e9ac760699272764a9929eff0.png"
+                    }
+                },
+                {
+                    "hash": 269888150,
+                    "name": "Swordmaster's Guard",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7c04ae7d23ee842c2b58c3e9c0f5855f.png"
+                    }
+                },
+                {
+                    "hash": 3108830275,
+                    "name": "Unrelenting",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/1fc52a711b40a4d867312c8aeadce262.png"
+                    }
+                },
+                {
+                    "hash": 2396489472,
+                    "name": "Chain Reaction",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/3826c3af844cc97534cf1a64cec2f6b2.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "49e3963f13b88c51aca0c67711665f3c304b3df8"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 3666208348,
+                    "name": "Jagged Edge",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/464c494e9ac760699272764a9929eff0.png"
+                    }
+                },
+                {
+                    "hash": 269888150,
+                    "name": "Swordmaster's Guard",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7c04ae7d23ee842c2b58c3e9c0f5855f.png"
+                    }
+                },
+                {
+                    "hash": 3705817207,
+                    "name": "Duelist's Trance",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/690097ae793a29efe2409dda22284049.png"
+                    }
+                },
+                {
+                    "hash": 2396489472,
+                    "name": "Chain Reaction",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/3826c3af844cc97534cf1a64cec2f6b2.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "6da0ecb21b41ed3efd0bae90f6dab2915b67e19c"
+        }
+    ]
+}

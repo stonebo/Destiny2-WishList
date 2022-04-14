@@ -1,0 +1,122 @@
+{
+    "name": "1000 Yard Stare",
+    "id": 4164201232,
+    "damage_type": "Void",
+    "weapon_type": "Sniper Rifle",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/8142b2a806e9ac8c34e27f3e430837f3.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/4164201232.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/dd4dd93c5606998595d9e5a06d5bfc9c.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 3230963543,
+                    "name": "Flared Magwell",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png"
+                    }
+                },
+                {
+                    "hash": 3400784728,
+                    "name": "Triple Tap",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png"
+                    }
+                },
+                {
+                    "hash": 2848615171,
+                    "name": "Dragonfly",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/8fe8293ba02002f69bfa052a0c44223f.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "e885d4051ad626e4ffeb81b2ab7339b55cd152a2"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1482024992,
+                    "name": "Smallbore",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png"
+                    }
+                },
+                {
+                    "hash": 3142289711,
+                    "name": "Accurized Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png"
+                    }
+                },
+                {
+                    "hash": 706527188,
+                    "name": "Quickdraw",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png"
+                    }
+                },
+                {
+                    "hash": 957782887,
+                    "name": "Snapshot Sights",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "bcd0a673ad6864adc44c393baaed7f875f4ba0cc"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1482024992,
+                    "name": "Smallbore",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png"
+                    }
+                },
+                {
+                    "hash": 3142289711,
+                    "name": "Accurized Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png"
+                    }
+                },
+                {
+                    "hash": 2866798147,
+                    "name": "No Distractions",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/a5adc38b39f910897be1548c7dd0c270.png"
+                    }
+                },
+                {
+                    "hash": 957782887,
+                    "name": "Snapshot Sights",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "f7cf2a617a64116bff24d47954c0eb0928acc16f"
+        }
+    ]
+}

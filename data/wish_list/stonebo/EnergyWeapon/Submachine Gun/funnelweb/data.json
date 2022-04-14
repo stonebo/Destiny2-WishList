@@ -1,0 +1,122 @@
+{
+    "name": "Funnelweb",
+    "id": 3341893443,
+    "damage_type": "Void",
+    "weapon_type": "Submachine Gun",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/11451b1f2b9d18a500552af3b18031df.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/3341893443.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 839105230,
+                    "name": "Arrowhead Brake",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png"
+                    }
+                },
+                {
+                    "hash": 3230963543,
+                    "name": "Flared Magwell",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png"
+                    }
+                },
+                {
+                    "hash": 1820235745,
+                    "name": "Subsistence",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/03d774525048e5eb5b6899b37d418920.png"
+                    }
+                },
+                {
+                    "hash": 11612903,
+                    "name": "Adrenaline Junkie",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/92111c4f872db8112e71a1bb4c684609.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "3f8691f6e1b49a96e8dfd36c0757633de9d5baf5"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 839105230,
+                    "name": "Arrowhead Brake",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png"
+                    }
+                },
+                {
+                    "hash": 3230963543,
+                    "name": "Flared Magwell",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png"
+                    }
+                },
+                {
+                    "hash": 1428297954,
+                    "name": "Perpetual Motion",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4aaf4030ba98b68791a8135464f9a289.png"
+                    }
+                },
+                {
+                    "hash": 11612903,
+                    "name": "Adrenaline Junkie",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/92111c4f872db8112e71a1bb4c684609.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "4e0cf46784cd71acd3448a82c341e27b6953fa17"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1482024992,
+                    "name": "Smallbore",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png"
+                    }
+                },
+                {
+                    "hash": 3142289711,
+                    "name": "Accurized Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png"
+                    }
+                },
+                {
+                    "hash": 1428297954,
+                    "name": "Perpetual Motion",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4aaf4030ba98b68791a8135464f9a289.png"
+                    }
+                },
+                {
+                    "hash": 2846385770,
+                    "name": "Rangefinder",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "345a718741c2f0ca15f8c0986c73184d82392096"
+        }
+    ]
+}

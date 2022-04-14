@@ -1,0 +1,86 @@
+{
+    "name": "Snorri FR5",
+    "id": 4114929480,
+    "damage_type": "Void",
+    "weapon_type": "Fusion Rifle",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/efd289a72ab64553dda6d6d5be92260a.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/4114929480.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 839105230,
+                    "name": "Arrowhead Brake",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png"
+                    }
+                },
+                {
+                    "hash": 2680121939,
+                    "name": "Enhanced Battery",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/fba0bbb5a21b74ebe59f394f2319098c.png"
+                    }
+                },
+                {
+                    "hash": 1570042021,
+                    "name": "Heating Up",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/ec51692c4a55ecf0b8a11065791bdc92.png"
+                    }
+                },
+                {
+                    "hash": 1427256713,
+                    "name": "Reservoir Burst",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/68b82437cba6eeb5a215c2c8240861a5.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "082868ae3750366a2ada0ef4dc9d42ddb1bbb831"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 839105230,
+                    "name": "Arrowhead Brake",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png"
+                    }
+                },
+                {
+                    "hash": 1687452232,
+                    "name": "Liquid Coils",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/381b7a519ca06b70b5ff8f793dfad038.png"
+                    }
+                },
+                {
+                    "hash": 1570042021,
+                    "name": "Heating Up",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/ec51692c4a55ecf0b8a11065791bdc92.png"
+                    }
+                },
+                {
+                    "hash": 2652708987,
+                    "name": "Successful Warm-Up",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/a6e39edc139e9cb7bd6c5175a8e6c7c8.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "3fec768f3289682fe4478deb2fa59102a81bb074"
+        }
+    ]
+}

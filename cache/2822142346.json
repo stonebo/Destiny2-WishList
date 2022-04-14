@@ -1,0 +1,125 @@
+{
+    "Response": {
+        "displayProperties": {
+            "description": "This weapon's projectiles are particularly light and quick.\n  \u2022  Increases projectile speed\n  \u2022  Increases reload speed",
+            "name": "High-Velocity Rounds",
+            "icon": "/common/destiny2_content/icons/d541a7c35981cb9caceaf3736097adb9.png",
+            "iconSequences": [
+                {
+                    "frames": [
+                        "/common/destiny2_content/icons/d541a7c35981cb9caceaf3736097adb9.png"
+                    ]
+                },
+                {
+                    "frames": [
+                        "/common/destiny2_content/icons/06b72439547151f4f3c7e3c12b93685d.png"
+                    ]
+                }
+            ],
+            "hasIcon": true
+        },
+        "tooltipNotifications": [],
+        "backgroundColor": {
+            "red": 0,
+            "green": 0,
+            "blue": 0,
+            "alpha": 0
+        },
+        "itemTypeDisplayName": "Magazine",
+        "flavorText": "",
+        "uiItemDisplayStyle": "",
+        "itemTypeAndTierDisplayName": "Common Magazine",
+        "displaySource": "",
+        "tooltipStyle": "build",
+        "action": {
+            "verbName": "Dismantle",
+            "verbDescription": "",
+            "isPositive": false,
+            "requiredCooldownSeconds": 0,
+            "requiredItems": [],
+            "progressionRewards": [],
+            "actionTypeLabel": "shard",
+            "rewardSheetHash": 0,
+            "rewardItemHash": 0,
+            "rewardSiteHash": 0,
+            "requiredCooldownHash": 0,
+            "deleteOnAction": true,
+            "consumeEntireStack": false,
+            "useOnAcquire": false
+        },
+        "inventory": {
+            "maxStackSize": 1,
+            "bucketTypeHash": 1469714392,
+            "recoveryBucketTypeHash": 215593132,
+            "tierTypeHash": 3340296461,
+            "isInstanceItem": false,
+            "nonTransferrableOriginal": false,
+            "tierTypeName": "Common",
+            "tierType": 2,
+            "expirationTooltip": "",
+            "expiredInActivityMessage": "",
+            "expiredInOrbitMessage": "",
+            "suppressExpirationWhenObjectivesComplete": true
+        },
+        "plug": {
+            "insertionRules": [],
+            "plugCategoryIdentifier": "magazines_gl",
+            "plugCategoryHash": 2718120384,
+            "onActionRecreateSelf": false,
+            "actionRewardSiteHash": 0,
+            "actionRewardItemOverrideHash": 0,
+            "insertionMaterialRequirementHash": 0,
+            "previewItemOverrideHash": 0,
+            "enabledMaterialRequirementHash": 0,
+            "enabledRules": [],
+            "uiPlugLabel": "",
+            "plugStyle": 0,
+            "plugAvailability": 0,
+            "alternateUiPlugLabel": "",
+            "alternatePlugStyle": 0,
+            "isDummyPlug": false,
+            "applyStatsToSocketOwnerItem": false
+        },
+        "acquireRewardSiteHash": 0,
+        "acquireUnlockHash": 0,
+        "investmentStats": [
+            {
+                "statTypeHash": 2523465841,
+                "value": 10,
+                "isConditionallyActive": false
+            },
+            {
+                "statTypeHash": 4188031367,
+                "value": 10,
+                "isConditionallyActive": false
+            }
+        ],
+        "perks": [],
+        "summaryItemHash": 3520001075,
+        "allowActions": true,
+        "doesPostmasterPullHaveSideEffects": false,
+        "nonTransferrable": true,
+        "itemCategoryHashes": [
+            4184407433,
+            610365472,
+            59
+        ],
+        "specialItemType": 0,
+        "itemType": 19,
+        "itemSubType": 0,
+        "classType": 3,
+        "breakerType": 0,
+        "equippable": false,
+        "defaultDamageType": 0,
+        "isWrapper": false,
+        "hash": 2822142346,
+        "index": 3600,
+        "redacted": false,
+        "blacklisted": false
+    },
+    "ErrorCode": 1,
+    "ThrottleSeconds": 0,
+    "ErrorStatus": "Success",
+    "Message": "Ok",
+    "MessageData": {}
+}

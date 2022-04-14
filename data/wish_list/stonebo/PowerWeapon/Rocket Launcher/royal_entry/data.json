@@ -1,0 +1,122 @@
+{
+    "name": "Royal Entry",
+    "id": 2448907086,
+    "damage_type": "Void",
+    "weapon_type": "Rocket Launcher",
+    "category": "PowerWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/ae7a05d6531694ca62ebcafeb5624d58.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/2448907086.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/e197b731c11556b17664b90a87dd0c11.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1844523823,
+                    "name": "Confined Launch",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c9439f5d740d017dc9551a60a902c797.png"
+                    }
+                },
+                {
+                    "hash": 2822142346,
+                    "name": "High-Velocity Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/d541a7c35981cb9caceaf3736097adb9.png"
+                    }
+                },
+                {
+                    "hash": 951095735,
+                    "name": "Impulse Amplifier",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4e93f5797efdcddc3dcfadf2831f3095.png"
+                    }
+                },
+                {
+                    "hash": 1275731761,
+                    "name": "Cluster Bomb",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/26eb5d8ffd1c09e212ad2ea51ffd5ef9.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "5cc8b4f9d2804a02fb7ce6de150b281e8b2ae397"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1844523823,
+                    "name": "Confined Launch",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c9439f5d740d017dc9551a60a902c797.png"
+                    }
+                },
+                {
+                    "hash": 2822142346,
+                    "name": "High-Velocity Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/d541a7c35981cb9caceaf3736097adb9.png"
+                    }
+                },
+                {
+                    "hash": 3300816228,
+                    "name": "Auto-Loading Holster",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png"
+                    }
+                },
+                {
+                    "hash": 1275731761,
+                    "name": "Cluster Bomb",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/26eb5d8ffd1c09e212ad2ea51ffd5ef9.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "377263d418c75ada1b51f77c76c721b39baeeae5"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1844523823,
+                    "name": "Confined Launch",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c9439f5d740d017dc9551a60a902c797.png"
+                    }
+                },
+                {
+                    "hash": 2822142346,
+                    "name": "High-Velocity Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/d541a7c35981cb9caceaf3736097adb9.png"
+                    }
+                },
+                {
+                    "hash": 3300816228,
+                    "name": "Auto-Loading Holster",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png"
+                    }
+                },
+                {
+                    "hash": 2396489472,
+                    "name": "Chain Reaction",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/3826c3af844cc97534cf1a64cec2f6b2.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "89338aa1c3a392da2cd06fbd95400ba595a0beb6"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "name": "Sweet Sorrow",
+    "id": 1248372789,
+    "damage_type": "Arc",
+    "weapon_type": "Auto Rifle",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/17ea14f35ec8c3445f72a00c71570bb9.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/1248372789.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/b0406992c49c84bdc5febad94048dc01.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 4090651448,
+                    "name": "Corkscrew Rifling",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png"
+                    }
+                },
+                {
+                    "hash": 3142289711,
+                    "name": "Accurized Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png"
+                    }
+                },
+                {
+                    "hash": 1428297954,
+                    "name": "Perpetual Motion",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4aaf4030ba98b68791a8135464f9a289.png"
+                    }
+                },
+                {
+                    "hash": 1546637391,
+                    "name": "Vorpal Weapon",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/6f82df3f2505654c266d2ee34c2a922d.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "56cf52d80149bf7fda71e11ccf321a448ca56af3"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 4090651448,
+                    "name": "Corkscrew Rifling",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png"
+                    }
+                },
+                {
+                    "hash": 3142289711,
+                    "name": "Accurized Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png"
+                    }
+                },
+                {
+                    "hash": 1428297954,
+                    "name": "Perpetual Motion",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4aaf4030ba98b68791a8135464f9a289.png"
+                    }
+                },
+                {
+                    "hash": 4049631843,
+                    "name": "One for All",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/b7106e2123d59e57a1547bc006892ebc.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "7e88c0a968771a2e2593d86807c1ef3c19aa24f2"
+        }
+    ]
+}

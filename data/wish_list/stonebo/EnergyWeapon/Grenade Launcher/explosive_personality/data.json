@@ -1,0 +1,158 @@
+{
+    "name": "Explosive Personality",
+    "id": 4096943616,
+    "damage_type": "Thermal/Solar",
+    "weapon_type": "Grenade Launcher",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/8fec46af88282ef693def6fb8d5fb7c9.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/4096943616.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/b0406992c49c84bdc5febad94048dc01.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1478423395,
+                    "name": "Volatile Launch",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/402765b86ff7b1d97078ac43d5ca39ad.png"
+                    }
+                },
+                {
+                    "hash": 2822142346,
+                    "name": "High-Velocity Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/d541a7c35981cb9caceaf3736097adb9.png"
+                    }
+                },
+                {
+                    "hash": 3300816228,
+                    "name": "Auto-Loading Holster",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png"
+                    }
+                },
+                {
+                    "hash": 1683379515,
+                    "name": "Disruption Break",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/5b83b3c3fc474c9716e54b4dfe4a862b.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "858592e5b7e0a079db463e6432264de72e446633"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1844523823,
+                    "name": "Confined Launch",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c9439f5d740d017dc9551a60a902c797.png"
+                    }
+                },
+                {
+                    "hash": 2822142346,
+                    "name": "High-Velocity Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/d541a7c35981cb9caceaf3736097adb9.png"
+                    }
+                },
+                {
+                    "hash": 3300816228,
+                    "name": "Auto-Loading Holster",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png"
+                    }
+                },
+                {
+                    "hash": 1683379515,
+                    "name": "Disruption Break",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/5b83b3c3fc474c9716e54b4dfe4a862b.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "80ddcbf1ef904c48dad01e3f9a5ce3db8052b503"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1844523823,
+                    "name": "Confined Launch",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c9439f5d740d017dc9551a60a902c797.png"
+                    }
+                },
+                {
+                    "hash": 2822142346,
+                    "name": "High-Velocity Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/d541a7c35981cb9caceaf3736097adb9.png"
+                    }
+                },
+                {
+                    "hash": 3300816228,
+                    "name": "Auto-Loading Holster",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png"
+                    }
+                },
+                {
+                    "hash": 4049631843,
+                    "name": "One for All",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/b7106e2123d59e57a1547bc006892ebc.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "03e4640d5446f54aa25f957b5c175d2eb71128ca"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1478423395,
+                    "name": "Volatile Launch",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/402765b86ff7b1d97078ac43d5ca39ad.png"
+                    }
+                },
+                {
+                    "hash": 2822142346,
+                    "name": "High-Velocity Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/d541a7c35981cb9caceaf3736097adb9.png"
+                    }
+                },
+                {
+                    "hash": 3300816228,
+                    "name": "Auto-Loading Holster",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png"
+                    }
+                },
+                {
+                    "hash": 4049631843,
+                    "name": "One for All",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/b7106e2123d59e57a1547bc006892ebc.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "c08f011f70615d5a9050a34607c1f9b1a60016f2"
+        }
+    ]
+}
