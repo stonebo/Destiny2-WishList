@@ -11,7 +11,7 @@ def find_wishlist(name: str):
 
 
 def html_output(name: str):
-    return os.path.join(workspace(), "output", f"{name}.html")
+    return os.path.join(workspace(), "docs", f"{name}.html")
 
 
 if __name__ == '__main__':
