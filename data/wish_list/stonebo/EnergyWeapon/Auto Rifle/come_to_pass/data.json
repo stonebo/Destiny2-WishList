@@ -1,0 +1,86 @@
+{
+    "name": "Come to Pass",
+    "id": 927567426,
+    "damage_type": "Arc",
+    "weapon_type": "Auto Rifle",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/e74115740ab66d465c11d28f5332c805.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/927567426.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 3177308360,
+                    "name": "Steady Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png"
+                    }
+                },
+                {
+                    "hash": 3096702027,
+                    "name": "Genesis",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/e52e3441db003abe3aa2b8a2f7fda730.png"
+                    }
+                },
+                {
+                    "hash": 1048183818,
+                    "name": "Adaptive Munitions",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/34d2439a496988502f3a9dc54256082f.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "0eb093da947352a88dac5db44a68f28e80ab641a"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 839105230,
+                    "name": "Arrowhead Brake",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png"
+                    }
+                },
+                {
+                    "hash": 3142289711,
+                    "name": "Accurized Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png"
+                    }
+                },
+                {
+                    "hash": 3400784728,
+                    "name": "Triple Tap",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png"
+                    }
+                },
+                {
+                    "hash": 2848615171,
+                    "name": "Dragonfly",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/8fe8293ba02002f69bfa052a0c44223f.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "3cc27e1245209b7f03407759384602202e7e32c5"
+        }
+    ]
+}

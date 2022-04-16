@@ -1,0 +1,86 @@
+{
+    "name": "Herod-C",
+    "id": 1788603939,
+    "damage_type": "Stasis",
+    "weapon_type": "Auto Rifle",
+    "category": "KineticWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/df98a1fb8bbb54f1622e3226e3d47835.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/1788603939.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 839105230,
+                    "name": "Arrowhead Brake",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png"
+                    }
+                },
+                {
+                    "hash": 1561002382,
+                    "name": "High-Caliber Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png"
+                    }
+                },
+                {
+                    "hash": 1820235745,
+                    "name": "Subsistence",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/03d774525048e5eb5b6899b37d418920.png"
+                    }
+                },
+                {
+                    "hash": 4104185692,
+                    "name": "Frenzy",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/5f346569b07ad452768b16a255ebd168.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "ab9c4b6b55464185e207910cc840ce172ecfa049"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 839105230,
+                    "name": "Arrowhead Brake",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png"
+                    }
+                },
+                {
+                    "hash": 1561002382,
+                    "name": "High-Caliber Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png"
+                    }
+                },
+                {
+                    "hash": 1583705720,
+                    "name": "Stats for All",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/22a761b1ce7490a447e38d2b0e98b41f.png"
+                    }
+                },
+                {
+                    "hash": 1546637391,
+                    "name": "Vorpal Weapon",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/6f82df3f2505654c266d2ee34c2a922d.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "d3ec5c3923c5a2d38e31b93a9a2f9a66dbab2a03"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Empirical Evidence",
+    "id": 2607304614,
+    "damage_type": "Kinetic",
+    "weapon_type": "Sidearm",
+    "category": "KineticWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/9c183c2e057be32cd6574819e235d96b.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/2607304614.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 1885400500,
+                    "name": "Ricochet Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png"
+                    }
+                },
+                {
+                    "hash": 2946784966,
+                    "name": "Tunnel Vision",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/dce6ca3c9276e5c10432cb99685ea62e.png"
+                    }
+                },
+                {
+                    "hash": 3592538738,
+                    "name": "Wellspring",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/b480945e13f700b4fa510a6fc79b92b2.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "9ef95123f111009fc3807a345b49d3544bc71582"
+        }
+    ]
+}

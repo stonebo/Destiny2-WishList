@@ -1,0 +1,86 @@
+{
+    "name": "Silicon Neuroma",
+    "id": 3355385170,
+    "damage_type": "Kinetic",
+    "weapon_type": "Sniper Rifle",
+    "category": "KineticWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/e21f83366c2bef42a183510b62f43d72.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/3355385170.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 1968497646,
+                    "name": "Armor-Piercing Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png"
+                    }
+                },
+                {
+                    "hash": 957782887,
+                    "name": "Snapshot Sights",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png"
+                    }
+                },
+                {
+                    "hash": 47981717,
+                    "name": "Opening Shot",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "4d695ff18e9e625fb1ad17081c05d2addcc9e40d"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 1968497646,
+                    "name": "Armor-Piercing Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png"
+                    }
+                },
+                {
+                    "hash": 3400784728,
+                    "name": "Triple Tap",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png"
+                    }
+                },
+                {
+                    "hash": 2896038713,
+                    "name": "Focused Fury",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/56de085547e63a25473c854f1a50697c.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "6c39b57d977f8a84821657483f585328b965bebd"
+        }
+    ]
+}

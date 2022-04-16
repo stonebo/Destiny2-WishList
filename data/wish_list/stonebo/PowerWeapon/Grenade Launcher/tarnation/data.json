@@ -1,0 +1,86 @@
+{
+    "name": "Tarnation",
+    "id": 2721157927,
+    "damage_type": "Arc",
+    "weapon_type": "Grenade Launcher",
+    "category": "PowerWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/b7c3f4e016735a23c1aee87a04381d6c.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/2721157927.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1478423395,
+                    "name": "Volatile Launch",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/402765b86ff7b1d97078ac43d5ca39ad.png"
+                    }
+                },
+                {
+                    "hash": 2822142346,
+                    "name": "High-Velocity Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/d541a7c35981cb9caceaf3736097adb9.png"
+                    }
+                },
+                {
+                    "hash": 2284787283,
+                    "name": "Clown Cartridge",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/a543c4450b70deb2d50ca3418c206397.png"
+                    }
+                },
+                {
+                    "hash": 2396489472,
+                    "name": "Chain Reaction",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/3826c3af844cc97534cf1a64cec2f6b2.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "e21c77f17011e3e3a4a31828bbaf3afab74d21f5"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 3809316345,
+                    "name": "Countermass",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/b1e34eabc2ad012b6258436e80705b49.png"
+                    }
+                },
+                {
+                    "hash": 3373736292,
+                    "name": "Sticky Grenades",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/e792675af3774d031a5d30d3824d6e27.png"
+                    }
+                },
+                {
+                    "hash": 706527188,
+                    "name": "Quickdraw",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png"
+                    }
+                },
+                {
+                    "hash": 960810156,
+                    "name": "Danger Zone",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/697b43db66f79e2b04819b72d31d5c6a.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "a99108cda4a234f7dafd1c8eed066eaac380b922"
+        }
+    ]
+}

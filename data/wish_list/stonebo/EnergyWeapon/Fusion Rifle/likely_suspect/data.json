@@ -1,0 +1,86 @@
+{
+    "name": "Likely Suspect",
+    "id": 1994645182,
+    "damage_type": "Void",
+    "weapon_type": "Fusion Rifle",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/548c915dc8226874fca93acc02080ca2.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/1994645182.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 839105230,
+                    "name": "Arrowhead Brake",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png"
+                    }
+                },
+                {
+                    "hash": 689005463,
+                    "name": "Accelerated Coils",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/231f0b02ac3bb5a19aa4b4c82fbf90a4.png"
+                    }
+                },
+                {
+                    "hash": 1570042021,
+                    "name": "Heating Up",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/ec51692c4a55ecf0b8a11065791bdc92.png"
+                    }
+                },
+                {
+                    "hash": 2652708987,
+                    "name": "Successful Warm-Up",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/a6e39edc139e9cb7bd6c5175a8e6c7c8.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "69a3f2609eb459baa9f420222a5aaf72cd39a41e"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 839105230,
+                    "name": "Arrowhead Brake",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png"
+                    }
+                },
+                {
+                    "hash": 689005463,
+                    "name": "Accelerated Coils",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/231f0b02ac3bb5a19aa4b4c82fbf90a4.png"
+                    }
+                },
+                {
+                    "hash": 280464955,
+                    "name": "Firmly Planted",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/bc9da416fe98c79b59074403084765b7.png"
+                    }
+                },
+                {
+                    "hash": 3673922083,
+                    "name": "Adagio",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/71b48407a3276cf4e8ddbdcb88efe8a0.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "1bbd4822adde0f13802dd76b3b2d066060ac433a"
+        }
+    ]
+}

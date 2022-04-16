@@ -1,0 +1,86 @@
+{
+    "name": "Heritage",
+    "id": 4248569242,
+    "damage_type": "Kinetic",
+    "weapon_type": "Shotgun",
+    "category": "KineticWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/4ff24b5b85f89efa37b29b15a0d18a4a.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/4248569242.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/1f702463c5e0c4e25c9f00a730dbc6ac.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 791862061,
+                    "name": "Assault Mag",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png"
+                    }
+                },
+                {
+                    "hash": 1523832109,
+                    "name": "Reconstruction",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/002d371c53e47c5ed8bb5f12577d6cd9.png"
+                    }
+                },
+                {
+                    "hash": 469285294,
+                    "name": "Recombination",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/053427c3342e20b70e567990839768d1.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "aed5d2517a6cacf48d6bc6cba5ceb76234d8ead6"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 791862061,
+                    "name": "Assault Mag",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png"
+                    }
+                },
+                {
+                    "hash": 1523832109,
+                    "name": "Reconstruction",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/002d371c53e47c5ed8bb5f12577d6cd9.png"
+                    }
+                },
+                {
+                    "hash": 957782887,
+                    "name": "Snapshot Sights",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "7f36d8be8f63e296a78d8a169b40e4085402875b"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "name": "Corrective Measure",
+    "id": 471518543,
+    "damage_type": "Void",
+    "weapon_type": "Machine Gun",
+    "category": "PowerWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/d1b6bb6685c073cc52e65180801b9abf.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/471518543.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/a9faab035e2f59f802e99641a3aaab9e.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 3230963543,
+                    "name": "Flared Magwell",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png"
+                    }
+                },
+                {
+                    "hash": 3418782618,
+                    "name": "Rewind Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/d8a615160ca06c9e2e761fe5f0ac43fb.png"
+                    }
+                },
+                {
+                    "hash": 3824105627,
+                    "name": "Firefly",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/8fdad28367368be6a9b790cfdd0f3240.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "6d33d392b55988a8454801b8b52183ae8756a101"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 3230963543,
+                    "name": "Flared Magwell",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png"
+                    }
+                },
+                {
+                    "hash": 2779035018,
+                    "name": "Feeding Frenzy",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/5838b4ef410895011edfed3eaf11641f.png"
+                    }
+                },
+                {
+                    "hash": 3824105627,
+                    "name": "Firefly",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/8fdad28367368be6a9b790cfdd0f3240.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "4c8950916aac422452f421c0d6431125999ecf96"
+        }
+    ]
+}

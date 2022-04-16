@@ -1,0 +1,86 @@
+{
+    "name": "Cataclysmic",
+    "id": 999767358,
+    "damage_type": "Thermal/Solar",
+    "weapon_type": "Linear Fusion Rifle",
+    "category": "PowerWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/f9a8c5944406fe57f6cd3c8daf623be4.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/999767358.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 2680121939,
+                    "name": "Enhanced Battery",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/fba0bbb5a21b74ebe59f394f2319098c.png"
+                    }
+                },
+                {
+                    "hash": 1354429876,
+                    "name": "Fourth Time's the Charm",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/8134a0712e5b3120d4153e00d4e3b4b9.png"
+                    }
+                },
+                {
+                    "hash": 2896038713,
+                    "name": "Focused Fury",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/56de085547e63a25473c854f1a50697c.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "245aa286fd5d293e7539f60ff8237de5a52f1ab5"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 2680121939,
+                    "name": "Enhanced Battery",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/fba0bbb5a21b74ebe59f394f2319098c.png"
+                    }
+                },
+                {
+                    "hash": 1354429876,
+                    "name": "Fourth Time's the Charm",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/8134a0712e5b3120d4153e00d4e3b4b9.png"
+                    }
+                },
+                {
+                    "hash": 3078487919,
+                    "name": "Bait and Switch",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/45f3abf37a1c72fbd0dd573621bdc604.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "cab3cdae2ef429c118ae8ff3e6527e9aaf91b43c"
+        }
+    ]
+}

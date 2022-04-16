@@ -1,0 +1,86 @@
+{
+    "name": "Deliverance",
+    "id": 768621510,
+    "damage_type": "Stasis",
+    "weapon_type": "Fusion Rifle",
+    "category": "KineticWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/4602e41d83e8ef2d21ebb251e14b1c0b.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/768621510.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 3868766766,
+                    "name": "Particle Repeater",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c38ffa488ea6747f8acbfbdb93f3e5a2.png"
+                    }
+                },
+                {
+                    "hash": 1428297954,
+                    "name": "Perpetual Motion",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4aaf4030ba98b68791a8135464f9a289.png"
+                    }
+                },
+                {
+                    "hash": 2978966579,
+                    "name": "Chill Clip",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/166c98f42220eda8bb68a9cd3123c80d.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "09913cbfca34c5299e76470ac54b654ddcd6e14e"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 4090651448,
+                    "name": "Corkscrew Rifling",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png"
+                    }
+                },
+                {
+                    "hash": 689005463,
+                    "name": "Accelerated Coils",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/231f0b02ac3bb5a19aa4b4c82fbf90a4.png"
+                    }
+                },
+                {
+                    "hash": 1428297954,
+                    "name": "Perpetual Motion",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4aaf4030ba98b68791a8135464f9a289.png"
+                    }
+                },
+                {
+                    "hash": 2652708987,
+                    "name": "Successful Warm-Up",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/a6e39edc139e9cb7bd6c5175a8e6c7c8.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "dd6af6bc58ff4fbe9b24b04a4a379e8a7acf2e3c"
+        }
+    ]
+}
