@@ -1,0 +1,86 @@
+{
+    "name": "Peacebond",
+    "id": 829330711,
+    "damage_type": "Stasis",
+    "weapon_type": "Sidearm",
+    "category": "KineticWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/067eefdf127c32b4ffd4724be408fdb2.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/829330711.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/4368a3e344977c5551407845ede830c2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 3230963543,
+                    "name": "Flared Magwell",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png"
+                    }
+                },
+                {
+                    "hash": 1820235745,
+                    "name": "Subsistence",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/03d774525048e5eb5b6899b37d418920.png"
+                    }
+                },
+                {
+                    "hash": 124408337,
+                    "name": "Headstone",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/42c5accd138e4daf1314db368670975a.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "2502a0e726082edc4efb3e6bff67a267e36f369b"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 3142289711,
+                    "name": "Accurized Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png"
+                    }
+                },
+                {
+                    "hash": 2846385770,
+                    "name": "Rangefinder",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png"
+                    }
+                },
+                {
+                    "hash": 591790007,
+                    "name": "Iron Reach",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/3246e13e86c8700c65c76052a729924d.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "fe717035f976864a184a10fe633a4bfd40d141b7"
+        }
+    ]
+}

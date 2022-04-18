@@ -1,0 +1,50 @@
+{
+    "name": "The Third Axiom",
+    "id": 4156253727,
+    "damage_type": "Arc",
+    "weapon_type": "Pulse Rifle",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/faea0a8213c8912b71e8997db88b7a5a.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/4156253727.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/e197b731c11556b17664b90a87dd0c11.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 839105230,
+                    "name": "Arrowhead Brake",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png"
+                    }
+                },
+                {
+                    "hash": 3230963543,
+                    "name": "Flared Magwell",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png"
+                    }
+                },
+                {
+                    "hash": 2779035018,
+                    "name": "Feeding Frenzy",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/5838b4ef410895011edfed3eaf11641f.png"
+                    }
+                },
+                {
+                    "hash": 3425386926,
+                    "name": "Rampage",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "08558647b53e7025af10a248735b08ed7dd105cc"
+        }
+    ]
+}

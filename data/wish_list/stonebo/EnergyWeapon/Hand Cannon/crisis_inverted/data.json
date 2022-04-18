@@ -1,0 +1,50 @@
+{
+    "name": "Crisis Inverted",
+    "id": 2888266564,
+    "damage_type": "Arc",
+    "weapon_type": "Hand Cannon",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/fab8e9a638a9b04cbae29e05d42e17b1.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/2888266564.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 1885400500,
+                    "name": "Ricochet Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png"
+                    }
+                },
+                {
+                    "hash": 2946784966,
+                    "name": "Tunnel Vision",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/dce6ca3c9276e5c10432cb99685ea62e.png"
+                    }
+                },
+                {
+                    "hash": 2846385770,
+                    "name": "Rangefinder",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "5d228cdee432f62702ea94c0f40345e0eda41739"
+        }
+    ]
+}

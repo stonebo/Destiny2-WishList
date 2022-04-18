@@ -1,0 +1,50 @@
+{
+    "name": "The Keening",
+    "id": 409551876,
+    "damage_type": "Arc",
+    "weapon_type": "Sidearm",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/ceb791e21672351811b9458d0c1bd83a.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/409551876.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/e197b731c11556b17664b90a87dd0c11.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 1885400500,
+                    "name": "Ricochet Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png"
+                    }
+                },
+                {
+                    "hash": 247725512,
+                    "name": "Rapid Hit",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/56f26a865c24a6a10cb4177794eb7788.png"
+                    }
+                },
+                {
+                    "hash": 957782887,
+                    "name": "Snapshot Sights",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "e116136c64d28ed6d4b974040c06d2c1064873c9"
+        }
+    ]
+}

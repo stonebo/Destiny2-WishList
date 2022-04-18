@@ -1,0 +1,122 @@
+{
+    "name": "Found Verdict",
+    "id": 3197270240,
+    "damage_type": "Arc",
+    "weapon_type": "Shotgun",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/831c5c8e8334c5610588c9df70676344.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/3197270240.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/a9faab035e2f59f802e99641a3aaab9e.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1300023272,
+                    "name": "Barrel Shroud",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7c81469db03f7111f8d248b54c83d7cf.png"
+                    }
+                },
+                {
+                    "hash": 791862061,
+                    "name": "Assault Mag",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png"
+                    }
+                },
+                {
+                    "hash": 3161816588,
+                    "name": "Slideshot",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/fa7ba2abcd8effd143e287668d7c865b.png"
+                    }
+                },
+                {
+                    "hash": 2679249093,
+                    "name": "One-Two Punch",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/9e8b9d285c5064ad85a0b7dbcb911f36.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "af38f9fea61d26747f37c00a4297d14a8c857d6d"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1300023272,
+                    "name": "Barrel Shroud",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7c81469db03f7111f8d248b54c83d7cf.png"
+                    }
+                },
+                {
+                    "hash": 791862061,
+                    "name": "Assault Mag",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png"
+                    }
+                },
+                {
+                    "hash": 3300816228,
+                    "name": "Auto-Loading Holster",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png"
+                    }
+                },
+                {
+                    "hash": 2679249093,
+                    "name": "One-Two Punch",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/9e8b9d285c5064ad85a0b7dbcb911f36.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "a22625abe678b50ea5b997f19324d83fcfa9b89d"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1300023272,
+                    "name": "Barrel Shroud",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7c81469db03f7111f8d248b54c83d7cf.png"
+                    }
+                },
+                {
+                    "hash": 791862061,
+                    "name": "Assault Mag",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png"
+                    }
+                },
+                {
+                    "hash": 3161816588,
+                    "name": "Slideshot",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/fa7ba2abcd8effd143e287668d7c865b.png"
+                    }
+                },
+                {
+                    "hash": 47981717,
+                    "name": "Opening Shot",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "6418fbacac1db33cf10b6f7e3f6ed31112179221"
+        }
+    ]
+}

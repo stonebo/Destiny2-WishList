@@ -1,0 +1,86 @@
+{
+    "name": "Archon's Thunder",
+    "id": 1967303408,
+    "damage_type": "Thermal/Solar",
+    "weapon_type": "Machine Gun",
+    "category": "PowerWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/d4d24f0c0a22666cdc9a365ad5fe3cf2.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/1967303408.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/a9faab035e2f59f802e99641a3aaab9e.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 3177308360,
+                    "name": "Steady Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png"
+                    }
+                },
+                {
+                    "hash": 2846385770,
+                    "name": "Rangefinder",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png"
+                    }
+                },
+                {
+                    "hash": 4152709778,
+                    "name": "Iron Gaze",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/87a534926730ce32896f53295e655aeb.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "990c5a5ce510b547829a7c5bd75f5c375eacd795"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 3177308360,
+                    "name": "Steady Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png"
+                    }
+                },
+                {
+                    "hash": 2846385770,
+                    "name": "Rangefinder",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png"
+                    }
+                },
+                {
+                    "hash": 11551321,
+                    "name": "Iron Grip",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/0070d2be2fa0f2ea5b799c06f29564b8.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "f837d2c40de19a770a3d4c07233ae46ef48ec694"
+        }
+    ]
+}

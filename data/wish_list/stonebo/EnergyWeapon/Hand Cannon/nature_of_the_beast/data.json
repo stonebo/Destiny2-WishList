@@ -1,0 +1,86 @@
+{
+    "name": "Nature of the Beast",
+    "id": 1835747805,
+    "damage_type": "Arc",
+    "weapon_type": "Hand Cannon",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/1623583a60b23002069c5ceefa7c71ad.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/1835747805.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/49dc693c5f3411b9638b97f38a70b69f.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1926090093,
+                    "name": "HitMark HCS",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png"
+                    }
+                },
+                {
+                    "hash": 3142289711,
+                    "name": "Accurized Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png"
+                    }
+                },
+                {
+                    "hash": 957782887,
+                    "name": "Snapshot Sights",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png"
+                    }
+                },
+                {
+                    "hash": 2846385770,
+                    "name": "Rangefinder",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "c0bb1464a359821a8ffc52f458b7a26cc1eafa13"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1926090093,
+                    "name": "HitMark HCS",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png"
+                    }
+                },
+                {
+                    "hash": 3142289711,
+                    "name": "Accurized Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png"
+                    }
+                },
+                {
+                    "hash": 706527188,
+                    "name": "Quickdraw",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png"
+                    }
+                },
+                {
+                    "hash": 2846385770,
+                    "name": "Rangefinder",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "4e849c2657cc8dcf89bd38869069dd8d3847055f"
+        }
+    ]
+}

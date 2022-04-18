@@ -1,0 +1,86 @@
+{
+    "name": "Finite Impactor",
+    "id": 3813153080,
+    "damage_type": "Arc",
+    "weapon_type": "Hand Cannon",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/37fefe8f2b199c56691080ef230c3534.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/3813153080.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/a9faab035e2f59f802e99641a3aaab9e.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1926090095,
+                    "name": "SteadyHand HCS",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png"
+                    }
+                },
+                {
+                    "hash": 1885400500,
+                    "name": "Ricochet Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png"
+                    }
+                },
+                {
+                    "hash": 2039302152,
+                    "name": "Slideways",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/ccac4f90945c16a520b823d2a6cd48a3.png"
+                    }
+                },
+                {
+                    "hash": 591790007,
+                    "name": "Iron Reach",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/3246e13e86c8700c65c76052a729924d.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "5fd12778d7f685ab55c5dc85055622ffb5d33211"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1926090095,
+                    "name": "SteadyHand HCS",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png"
+                    }
+                },
+                {
+                    "hash": 1885400500,
+                    "name": "Ricochet Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png"
+                    }
+                },
+                {
+                    "hash": 1570042021,
+                    "name": "Heating Up",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/ec51692c4a55ecf0b8a11065791bdc92.png"
+                    }
+                },
+                {
+                    "hash": 591790007,
+                    "name": "Iron Reach",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/3246e13e86c8700c65c76052a729924d.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "d15a15119d4793b62f3da90786194f373df17772"
+        }
+    ]
+}

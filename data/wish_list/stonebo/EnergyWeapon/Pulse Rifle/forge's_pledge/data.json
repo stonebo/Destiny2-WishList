@@ -1,0 +1,86 @@
+{
+    "name": "Forge's Pledge",
+    "id": 1076810832,
+    "damage_type": "Thermal/Solar",
+    "weapon_type": "Pulse Rifle",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/03140ba0031f7eb8420382f07360fe88.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/1076810832.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/4368a3e344977c5551407845ede830c2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 839105230,
+                    "name": "Arrowhead Brake",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png"
+                    }
+                },
+                {
+                    "hash": 3142289711,
+                    "name": "Accurized Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png"
+                    }
+                },
+                {
+                    "hash": 2946784966,
+                    "name": "Tunnel Vision",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/dce6ca3c9276e5c10432cb99685ea62e.png"
+                    }
+                },
+                {
+                    "hash": 3425386926,
+                    "name": "Rampage",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "520eb5ebb1ad3a26209e2ee31f0eb6cd4b0d343e"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 839105230,
+                    "name": "Arrowhead Brake",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png"
+                    }
+                },
+                {
+                    "hash": 3142289711,
+                    "name": "Accurized Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png"
+                    }
+                },
+                {
+                    "hash": 2387244414,
+                    "name": "Zen Moment",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png"
+                    }
+                },
+                {
+                    "hash": 3425386926,
+                    "name": "Rampage",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "32acaa6ea7b762a661f0b5e3b59c2392dd7c76f6"
+        }
+    ]
+}
