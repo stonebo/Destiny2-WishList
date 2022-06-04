@@ -1,0 +1,86 @@
+{
+    "name": "Vouchsafe",
+    "id": 3242168339,
+    "damage_type": "Void",
+    "weapon_type": "Scout Rifle",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/eb6afad3ced33d30a19bf312379ce331.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/3242168339.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/02478e165d7d8d2a9f39c2796e7aac12.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1482024992,
+                    "name": "Smallbore",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png"
+                    }
+                },
+                {
+                    "hash": 3142289711,
+                    "name": "Accurized Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png"
+                    }
+                },
+                {
+                    "hash": 1354429876,
+                    "name": "Fourth Time's the Charm",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/8134a0712e5b3120d4153e00d4e3b4b9.png"
+                    }
+                },
+                {
+                    "hash": 3038247973,
+                    "name": "Explosive Payload",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/d41dd918d42681c5b0ad00880274b22c.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "f45d16d2d5acd16737ab96e97077d0edffef87c1"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1482024992,
+                    "name": "Smallbore",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png"
+                    }
+                },
+                {
+                    "hash": 3142289711,
+                    "name": "Accurized Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png"
+                    }
+                },
+                {
+                    "hash": 247725512,
+                    "name": "Rapid Hit",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/56f26a865c24a6a10cb4177794eb7788.png"
+                    }
+                },
+                {
+                    "hash": 3038247973,
+                    "name": "Explosive Payload",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/d41dd918d42681c5b0ad00880274b22c.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "0de38dd3503304209bed0bb3650ddd0c855c9cee"
+        }
+    ]
+}

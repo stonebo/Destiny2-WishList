@@ -1,0 +1,122 @@
+{
+    "name": "The Title",
+    "id": 294129361,
+    "damage_type": "Void",
+    "weapon_type": "Submachine Gun",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/0464626a92a1ccd1ef50ab3d4a9299af.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/294129361.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/64e07aa12c7c9956ee607ccb5b3c6718.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1392496348,
+                    "name": "Polygonal Rifling",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png"
+                    }
+                },
+                {
+                    "hash": 1885400500,
+                    "name": "Ricochet Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png"
+                    }
+                },
+                {
+                    "hash": 1583705720,
+                    "name": "Stats for All",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/22a761b1ce7490a447e38d2b0e98b41f.png"
+                    }
+                },
+                {
+                    "hash": 4049631843,
+                    "name": "One for All",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/b7106e2123d59e57a1547bc006892ebc.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "4da53fe1e783f9fcef28e9fc1d2bc1de7f0ea43d"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1392496348,
+                    "name": "Polygonal Rifling",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png"
+                    }
+                },
+                {
+                    "hash": 1885400500,
+                    "name": "Ricochet Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png"
+                    }
+                },
+                {
+                    "hash": 4071163871,
+                    "name": "Threat Detector",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png"
+                    }
+                },
+                {
+                    "hash": 4049631843,
+                    "name": "One for All",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/b7106e2123d59e57a1547bc006892ebc.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "7a805f29c4b9a5075aca2077926901df1169ae92"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1392496348,
+                    "name": "Polygonal Rifling",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png"
+                    }
+                },
+                {
+                    "hash": 1885400500,
+                    "name": "Ricochet Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png"
+                    }
+                },
+                {
+                    "hash": 4071163871,
+                    "name": "Threat Detector",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png"
+                    }
+                },
+                {
+                    "hash": 1546637391,
+                    "name": "Vorpal Weapon",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/6f82df3f2505654c266d2ee34c2a922d.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "c2204e79166c73cad2105881d7d7bc95cdc9a613"
+        }
+    ]
+}

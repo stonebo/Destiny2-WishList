@@ -1,0 +1,50 @@
+{
+    "name": "Enyo-D",
+    "id": 1601177201,
+    "damage_type": "Kinetic",
+    "weapon_type": "Submachine Gun",
+    "category": "KineticWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/b7144826abe7a080efdb14bf096d433d.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/1601177201.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/81edbfbf0bacf8e2117c00d1d6115f1b.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 4090651448,
+                    "name": "Corkscrew Rifling",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png"
+                    }
+                },
+                {
+                    "hash": 3142289711,
+                    "name": "Accurized Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png"
+                    }
+                },
+                {
+                    "hash": 2451262963,
+                    "name": "Fragile Focus",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/1f08b014f6e0433875b39a5a4176e4cd.png"
+                    }
+                },
+                {
+                    "hash": 3425386926,
+                    "name": "Rampage",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "806f508f65287ca884ca3437f303a50edadd78d5"
+        }
+    ]
+}

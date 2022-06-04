@@ -1,0 +1,86 @@
+{
+    "name": "Twilight Oath",
+    "id": 3297863558,
+    "damage_type": "Thermal/Solar",
+    "weapon_type": "Sniper Rifle",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/7b8aaafd643ee032b28865af5375575b.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/3297863558.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/02478e165d7d8d2a9f39c2796e7aac12.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 3250034553,
+                    "name": "Hammer-Forged Rifling",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png"
+                    }
+                },
+                {
+                    "hash": 3142289711,
+                    "name": "Accurized Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png"
+                    }
+                },
+                {
+                    "hash": 47981717,
+                    "name": "Opening Shot",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png"
+                    }
+                },
+                {
+                    "hash": 957782887,
+                    "name": "Snapshot Sights",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "e9f8b575486ca8e88ec2ea42cea19cd05cdd29d6"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 3250034553,
+                    "name": "Hammer-Forged Rifling",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png"
+                    }
+                },
+                {
+                    "hash": 3142289711,
+                    "name": "Accurized Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png"
+                    }
+                },
+                {
+                    "hash": 2866798147,
+                    "name": "No Distractions",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/a5adc38b39f910897be1548c7dd0c270.png"
+                    }
+                },
+                {
+                    "hash": 957782887,
+                    "name": "Snapshot Sights",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "7c8e64dcf02d0cebbfc3c1d967f98f0cc250ffbb"
+        }
+    ]
+}

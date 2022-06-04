@@ -1,0 +1,50 @@
+{
+    "name": "Nezarec's Whisper",
+    "id": 254636484,
+    "damage_type": "Arc",
+    "weapon_type": "Glaive",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/3e60378085a501fd278aeb2035217ea7.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/254636484.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/81edbfbf0bacf8e2117c00d1d6115f1b.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 5699512,
+                    "name": "Tempered Truss Rod",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/89742394d4319c1c351d6af2721451b8.png"
+                    }
+                },
+                {
+                    "hash": 3721627275,
+                    "name": "Swap Mag",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/0138d925d3048e4d34e8b4f841106327.png"
+                    }
+                },
+                {
+                    "hash": 3523296417,
+                    "name": "Demolitionist",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/53ead908917c9156457c7c9dd453d649.png"
+                    }
+                },
+                {
+                    "hash": 11612903,
+                    "name": "Adrenaline Junkie",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/92111c4f872db8112e71a1bb4c684609.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "a8aba38ba413002c7c1138d683cc9d5c21a8f8a9"
+        }
+    ]
+}

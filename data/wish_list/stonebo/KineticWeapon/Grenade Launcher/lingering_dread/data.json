@@ -1,0 +1,86 @@
+{
+    "name": "Lingering Dread",
+    "id": 2026087437,
+    "damage_type": "Stasis",
+    "weapon_type": "Grenade Launcher",
+    "category": "KineticWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/b703aecbf987fa45013379db54d3a2b4.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/2026087437.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/81edbfbf0bacf8e2117c00d1d6115f1b.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 3798852852,
+                    "name": "Smart Drift Control",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/52a4646804b96ed190f1e1ae97b64e17.png"
+                    }
+                },
+                {
+                    "hash": 3032599245,
+                    "name": "Blinding Grenades",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c0dde588e1a32760621859e496d2e657.png"
+                    }
+                },
+                {
+                    "hash": 3300816228,
+                    "name": "Auto-Loading Holster",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png"
+                    }
+                },
+                {
+                    "hash": 2978966579,
+                    "name": "Chill Clip",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/166c98f42220eda8bb68a9cd3123c80d.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "261f9ed31d8ace4afd3bf613749fd20086136488"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 3525010810,
+                    "name": "Quick Launch",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/11664d61e115d9a59bd969b87081f1a6.png"
+                    }
+                },
+                {
+                    "hash": 2822142346,
+                    "name": "High-Velocity Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/d541a7c35981cb9caceaf3736097adb9.png"
+                    }
+                },
+                {
+                    "hash": 2779035018,
+                    "name": "Feeding Frenzy",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/5838b4ef410895011edfed3eaf11641f.png"
+                    }
+                },
+                {
+                    "hash": 2978966579,
+                    "name": "Chill Clip",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/166c98f42220eda8bb68a9cd3123c80d.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "d2ba08c2305d8f7f44ef09be0391eb61d620b073"
+        }
+    ]
+}

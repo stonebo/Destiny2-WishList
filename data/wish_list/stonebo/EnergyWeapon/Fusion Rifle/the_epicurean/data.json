@@ -1,0 +1,50 @@
+{
+    "name": "The Epicurean",
+    "id": 2263839058,
+    "damage_type": "Void",
+    "weapon_type": "Fusion Rifle",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/6c49bc44e03008661e77c11dfd1bacb4.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/2263839058.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/81edbfbf0bacf8e2117c00d1d6115f1b.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 3868766766,
+                    "name": "Particle Repeater",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c38ffa488ea6747f8acbfbdb93f3e5a2.png"
+                    }
+                },
+                {
+                    "hash": 706527188,
+                    "name": "Quickdraw",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png"
+                    }
+                },
+                {
+                    "hash": 1600092898,
+                    "name": "Backup Plan",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/89c3bf4e4ba2fd744abf6371b783c56f.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "cb5189ced6bde51357315cc558b02b273872e90e"
+        }
+    ]
+}

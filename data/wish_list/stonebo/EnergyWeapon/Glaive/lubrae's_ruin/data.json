@@ -1,0 +1,86 @@
+{
+    "name": "Lubrae's Ruin",
+    "id": 2534546147,
+    "damage_type": "Thermal/Solar",
+    "weapon_type": "Glaive",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/9a217f52549e480bb82ef854f9ac2414.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/2534546147.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/d05833668bcb5ae25344dd4538b1e0b2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 594346985,
+                    "name": "Lightweight Emitter",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/8f477b6d3b52afb6f30f866826fb4bf0.png"
+                    }
+                },
+                {
+                    "hash": 3721627275,
+                    "name": "Swap Mag",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/0138d925d3048e4d34e8b4f841106327.png"
+                    }
+                },
+                {
+                    "hash": 1631667848,
+                    "name": "Grave Robber",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png"
+                    }
+                },
+                {
+                    "hash": 3708227201,
+                    "name": "Surrounded",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/0dbd2b11fd1343c11b4559c7a72ae8da.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "381d2e4e37a1329278a66548520047e4108acd6a"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 594346985,
+                    "name": "Lightweight Emitter",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/8f477b6d3b52afb6f30f866826fb4bf0.png"
+                    }
+                },
+                {
+                    "hash": 3721627275,
+                    "name": "Swap Mag",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/0138d925d3048e4d34e8b4f841106327.png"
+                    }
+                },
+                {
+                    "hash": 1631667848,
+                    "name": "Grave Robber",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png"
+                    }
+                },
+                {
+                    "hash": 4082225868,
+                    "name": "Swashbuckler",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/ef89b89410de618e9cfa353ff35125d8.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "31c68f6d469c93aff5ad812636d4d061ccd91bd4"
+        }
+    ]
+}

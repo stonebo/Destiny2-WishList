@@ -1,0 +1,86 @@
+{
+    "name": "Fixed Odds",
+    "id": 2194955522,
+    "damage_type": "Thermal/Solar",
+    "weapon_type": "Machine Gun",
+    "category": "PowerWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/799b05bf3ada59735cb74241be92e7a0.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/2194955522.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/81edbfbf0bacf8e2117c00d1d6115f1b.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 3230963543,
+                    "name": "Flared Magwell",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png"
+                    }
+                },
+                {
+                    "hash": 1645158859,
+                    "name": "Under Pressure",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png"
+                    }
+                },
+                {
+                    "hash": 4293542123,
+                    "name": "Incandescent",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/25e15bc974d4d1598cc088f5dabf4aa0.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "772a7d3f9d28d44ebf3df7d540331481df5ea909"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 3230963543,
+                    "name": "Flared Magwell",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png"
+                    }
+                },
+                {
+                    "hash": 2779035018,
+                    "name": "Feeding Frenzy",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/5838b4ef410895011edfed3eaf11641f.png"
+                    }
+                },
+                {
+                    "hash": 557221067,
+                    "name": "Killing Tally",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/03e2db0c911d07fc0e9f505927aab055.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "d97e419d1ec7f7c1242a642f7c71f1f57a5a2857"
+        }
+    ]
+}

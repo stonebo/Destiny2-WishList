@@ -1,0 +1,146 @@
+{
+    "Response": {
+        "displayProperties": {
+            "description": "Throwing a grenade or hitting a target with a charged melee grants a stacking bonus to weapon stability, handling, and range.\n\nUsing a Super grants maximum stacks.",
+            "name": "Well-Rounded",
+            "icon": "/common/destiny2_content/icons/ea2b3d386b58cfa4da6c504a19e9fced.png",
+            "iconSequences": [
+                {
+                    "frames": [
+                        "/common/destiny2_content/icons/ea2b3d386b58cfa4da6c504a19e9fced.png"
+                    ]
+                },
+                {
+                    "frames": [
+                        "/common/destiny2_content/icons/b5bfe7715b982001b2aa0bb61c422906.png"
+                    ]
+                }
+            ],
+            "hasIcon": true
+        },
+        "tooltipNotifications": [],
+        "backgroundColor": {
+            "red": 0,
+            "green": 0,
+            "blue": 0,
+            "alpha": 0
+        },
+        "itemTypeDisplayName": "Trait",
+        "flavorText": "",
+        "uiItemDisplayStyle": "",
+        "itemTypeAndTierDisplayName": "Common Trait",
+        "displaySource": "",
+        "tooltipStyle": "build",
+        "action": {
+            "verbName": "Dismantle",
+            "verbDescription": "",
+            "isPositive": false,
+            "requiredCooldownSeconds": 0,
+            "requiredItems": [],
+            "progressionRewards": [],
+            "actionTypeLabel": "shard",
+            "rewardSheetHash": 0,
+            "rewardItemHash": 0,
+            "rewardSiteHash": 0,
+            "requiredCooldownHash": 0,
+            "deleteOnAction": true,
+            "consumeEntireStack": false,
+            "useOnAcquire": false
+        },
+        "inventory": {
+            "maxStackSize": 1,
+            "bucketTypeHash": 1469714392,
+            "recoveryBucketTypeHash": 215593132,
+            "tierTypeHash": 3340296461,
+            "isInstanceItem": false,
+            "nonTransferrableOriginal": false,
+            "tierTypeName": "Common",
+            "tierType": 2,
+            "expirationTooltip": "",
+            "expiredInActivityMessage": "",
+            "expiredInOrbitMessage": "",
+            "suppressExpirationWhenObjectivesComplete": true
+        },
+        "objectives": {
+            "objectiveHashes": [
+                4061659983
+            ],
+            "displayActivityHashes": [
+                2166136261
+            ],
+            "requireFullObjectiveCompletion": false,
+            "questlineItemHash": 0,
+            "narrative": "",
+            "objectiveVerbName": "",
+            "questTypeIdentifier": "",
+            "questTypeHash": 2166136261,
+            "completionRewardSiteHash": 0,
+            "nextQuestStepRewardSiteHash": 0,
+            "timestampUnlockValueHash": 0,
+            "isGlobalObjectiveItem": false,
+            "useOnObjectiveCompletion": false,
+            "inhibitCompletionUnlockValueHash": 0,
+            "perObjectiveDisplayProperties": [
+                {
+                    "displayOnItemPreviewScreen": false
+                }
+            ],
+            "displayAsStatTracker": false
+        },
+        "plug": {
+            "insertionRules": [],
+            "plugCategoryIdentifier": "frames",
+            "plugCategoryHash": 7906839,
+            "onActionRecreateSelf": false,
+            "actionRewardSiteHash": 0,
+            "actionRewardItemOverrideHash": 0,
+            "insertionMaterialRequirementHash": 0,
+            "previewItemOverrideHash": 0,
+            "enabledMaterialRequirementHash": 0,
+            "enabledRules": [],
+            "uiPlugLabel": "",
+            "plugStyle": 0,
+            "plugAvailability": 0,
+            "alternateUiPlugLabel": "",
+            "alternatePlugStyle": 0,
+            "isDummyPlug": false,
+            "applyStatsToSocketOwnerItem": false
+        },
+        "acquireRewardSiteHash": 0,
+        "acquireUnlockHash": 0,
+        "investmentStats": [],
+        "perks": [
+            {
+                "requirementDisplayString": "",
+                "perkHash": 224174687,
+                "perkVisibility": 0
+            }
+        ],
+        "summaryItemHash": 3520001075,
+        "allowActions": true,
+        "doesPostmasterPullHaveSideEffects": false,
+        "nonTransferrable": true,
+        "itemCategoryHashes": [
+            59,
+            3708671066,
+            610365472
+        ],
+        "specialItemType": 0,
+        "itemType": 19,
+        "itemSubType": 0,
+        "classType": 3,
+        "breakerType": 0,
+        "equippable": false,
+        "defaultDamageType": 0,
+        "isWrapper": false,
+        "hash": 744594675,
+        "index": 12010,
+        "redacted": false,
+        "blacklisted": false
+    },
+    "ErrorCode": 1,
+    "ThrottleSeconds": 0,
+    "ErrorStatus": "Success",
+    "Message": "Ok",
+    "MessageData": {}
+}

@@ -1,0 +1,50 @@
+{
+    "name": "New Purpose",
+    "id": 1780464822,
+    "damage_type": "Stasis",
+    "weapon_type": "Pulse Rifle",
+    "category": "KineticWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/e9acc52c1148eb36c6d43668a8d7d057.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/1780464822.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/81edbfbf0bacf8e2117c00d1d6115f1b.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 839105230,
+                    "name": "Arrowhead Brake",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png"
+                    }
+                },
+                {
+                    "hash": 1885400500,
+                    "name": "Ricochet Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png"
+                    }
+                },
+                {
+                    "hash": 1428297954,
+                    "name": "Perpetual Motion",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/4aaf4030ba98b68791a8135464f9a289.png"
+                    }
+                },
+                {
+                    "hash": 3047969693,
+                    "name": "Desperado",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c65ca84ff8fe31b00fb0bb569ddf25a8.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "baa7a86c18dece4e6b19fbe58c58391cc92ccfb9"
+        }
+    ]
+}

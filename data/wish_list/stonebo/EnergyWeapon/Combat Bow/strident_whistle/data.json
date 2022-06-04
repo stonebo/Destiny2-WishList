@@ -1,0 +1,50 @@
+{
+    "name": "Strident Whistle",
+    "id": 2591241074,
+    "damage_type": "Thermal/Solar",
+    "weapon_type": "Combat Bow",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/a86f41de4a83a162782b1be988ac6006.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/2591241074.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/81edbfbf0bacf8e2117c00d1d6115f1b.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 3768438372,
+                    "name": "Agile Bowstring",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/f58a93d2728c6eaf17e971c006e8aa7c.png"
+                    }
+                },
+                {
+                    "hash": 3429800428,
+                    "name": "Fiberglass Arrow Shaft",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/eba4d202086df5d676fe0435eeb27ec1.png"
+                    }
+                },
+                {
+                    "hash": 744594675,
+                    "name": "Well-Rounded",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/ea2b3d386b58cfa4da6c504a19e9fced.png"
+                    }
+                },
+                {
+                    "hash": 4293542123,
+                    "name": "Incandescent",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/25e15bc974d4d1598cc088f5dabf4aa0.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "090f0ff4ed2b1ca899b8669c11276ef42beebd5d"
+        }
+    ]
+}

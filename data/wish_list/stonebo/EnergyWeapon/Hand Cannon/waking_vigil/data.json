@@ -1,0 +1,86 @@
+{
+    "name": "Waking Vigil",
+    "id": 334171687,
+    "damage_type": "Arc",
+    "weapon_type": "Hand Cannon",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/21f8510eb0725f0e143f4df8a67724af.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/334171687.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/02478e165d7d8d2a9f39c2796e7aac12.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1926090095,
+                    "name": "SteadyHand HCS",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png"
+                    }
+                },
+                {
+                    "hash": 1885400500,
+                    "name": "Ricochet Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png"
+                    }
+                },
+                {
+                    "hash": 2846385770,
+                    "name": "Rangefinder",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png"
+                    }
+                },
+                {
+                    "hash": 47981717,
+                    "name": "Opening Shot",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "b8245f0394ca921e4577c39e54f507e69745aeef"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1926090095,
+                    "name": "SteadyHand HCS",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png"
+                    }
+                },
+                {
+                    "hash": 1885400500,
+                    "name": "Ricochet Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png"
+                    }
+                },
+                {
+                    "hash": 2846385770,
+                    "name": "Rangefinder",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png"
+                    }
+                },
+                {
+                    "hash": 957782887,
+                    "name": "Snapshot Sights",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "45f8d00fda63ef448c3f25776fa79f6ad6d4e940"
+        }
+    ]
+}

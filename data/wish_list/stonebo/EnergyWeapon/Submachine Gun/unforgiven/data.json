@@ -1,0 +1,86 @@
+{
+    "name": "Unforgiven",
+    "id": 3000847393,
+    "damage_type": "Void",
+    "weapon_type": "Submachine Gun",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/779bb60bfdf687b7f0c71ddd877d9639.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/3000847393.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/81edbfbf0bacf8e2117c00d1d6115f1b.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 1885400500,
+                    "name": "Ricochet Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png"
+                    }
+                },
+                {
+                    "hash": 3523296417,
+                    "name": "Demolitionist",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/53ead908917c9156457c7c9dd453d649.png"
+                    }
+                },
+                {
+                    "hash": 776531651,
+                    "name": "Repulsor Brace",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/d4e363e155b7d836a3bc6383d72666db.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "c12874615b431329eb1f24103f5da12ccfa2beb0"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1392496348,
+                    "name": "Polygonal Rifling",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png"
+                    }
+                },
+                {
+                    "hash": 3230963543,
+                    "name": "Flared Magwell",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png"
+                    }
+                },
+                {
+                    "hash": 2779035018,
+                    "name": "Feeding Frenzy",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/5838b4ef410895011edfed3eaf11641f.png"
+                    }
+                },
+                {
+                    "hash": 11612903,
+                    "name": "Adrenaline Junkie",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/92111c4f872db8112e71a1bb4c684609.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "30ffe55c31ba5cc9e26f5484d85589b9e4cf7554"
+        }
+    ]
+}

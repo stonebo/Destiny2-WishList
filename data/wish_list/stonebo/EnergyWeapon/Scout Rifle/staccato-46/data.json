@@ -1,0 +1,50 @@
+{
+    "name": "Staccato-46",
+    "id": 4019668921,
+    "damage_type": "Thermal/Solar",
+    "weapon_type": "Scout Rifle",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/1a40eabba437aa02ca876e86e41d0bb5.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/4019668921.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/81edbfbf0bacf8e2117c00d1d6115f1b.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1482024992,
+                    "name": "Smallbore",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png"
+                    }
+                },
+                {
+                    "hash": 3142289711,
+                    "name": "Accurized Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png"
+                    }
+                },
+                {
+                    "hash": 3400784728,
+                    "name": "Triple Tap",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png"
+                    }
+                },
+                {
+                    "hash": 4293542123,
+                    "name": "Incandescent",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/25e15bc974d4d1598cc088f5dabf4aa0.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "2343294a071786ac8500b97ef966400c2926f759"
+        }
+    ]
+}

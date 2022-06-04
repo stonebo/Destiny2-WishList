@@ -1,0 +1,86 @@
+{
+    "name": "Darkest Before",
+    "id": 2481758391,
+    "damage_type": "Arc",
+    "weapon_type": "Pulse Rifle",
+    "category": "EnergyWeapon",
+    "icons": {
+        "icon": "https://bungie.net/common/destiny2_content/icons/2df421fab5928f2a322ab6852fccd21e.jpg",
+        "screenshot": "https://bungie.net/common/destiny2_content/screenshots/2481758391.jpg",
+        "water_mark": "https://bungie.net/common/destiny2_content/icons/4368a3e344977c5551407845ede830c2.png"
+    },
+    "perks": [
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 1885400500,
+                    "name": "Ricochet Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png"
+                    }
+                },
+                {
+                    "hash": 706527188,
+                    "name": "Quickdraw",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png"
+                    }
+                },
+                {
+                    "hash": 3511092054,
+                    "name": "Elemental Capacitor",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/41a15e4b4d7c185e878b44e293ec8c76.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "42ffe837f59e2574e37c9db7883c06c1df5d244c"
+        },
+        {
+            "perks": [
+                {
+                    "hash": 1840239774,
+                    "name": "Fluted Barrel",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png"
+                    }
+                },
+                {
+                    "hash": 1885400500,
+                    "name": "Ricochet Rounds",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png"
+                    }
+                },
+                {
+                    "hash": 706527188,
+                    "name": "Quickdraw",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png"
+                    }
+                },
+                {
+                    "hash": 3425386926,
+                    "name": "Rampage",
+                    "icons": {
+                        "icon": "https://bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png"
+                    }
+                }
+            ],
+            "pvp": false,
+            "pve": false,
+            "god_roll": false,
+            "hash": "7aaf50e976260256485d882dcd8059b7d23ce6b3"
+        }
+    ]
+}
