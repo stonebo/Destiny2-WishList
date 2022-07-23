@@ -31,8 +31,5 @@ jobs:
         run: docker build -t "$EnvImageName:latest" .
 
       # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
-          docker images
+      - name: Run main.py
+        run: docker run --env TOKEN="${{ secrets.DESTINYBOT_TOKEN }}" -v "$(pwd):/project"  "$EnvImageName:latest" python3 main.py
